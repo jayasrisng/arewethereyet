@@ -1,13 +1,75 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 509
+    size: 610
     values:
       - ""
+      - 10 Animal Material Pack.lspkg
+      - 10 Animal Material Pack.lspkg/10_ANIMAL_MATERIALS_PACK (ADAPT_TO_UR_MESH)__PLACE_IN_SCENE.prefab
+      - 10 Animal Material Pack.lspkg/Materials
+      - 10 Animal Material Pack.lspkg/Materials/Bear_Material.mat
+      - 10 Animal Material Pack.lspkg/Materials/Cat_Material.mat
+      - 10 Animal Material Pack.lspkg/Materials/Cow_Material.mat
+      - 10 Animal Material Pack.lspkg/Materials/Dragon_Material.mat
+      - 10 Animal Material Pack.lspkg/Materials/Fawn_Material.mat
+      - 10 Animal Material Pack.lspkg/Materials/Giraffe_Material.mat
+      - 10 Animal Material Pack.lspkg/Materials/Lizard_Material.mat
+      - 10 Animal Material Pack.lspkg/Materials/Snake_Material.mat
+      - 10 Animal Material Pack.lspkg/Materials/Tiger_Material.mat
+      - 10 Animal Material Pack.lspkg/Materials/Zebra_Material.mat
+      - 10 Animal Material Pack.lspkg/Meshes
+      - 10 Animal Material Pack.lspkg/Meshes/Sphere_EXAMPLE.mesh
+      - 10 Animal Material Pack.lspkg/Shaders
+      - 10 Animal Material Pack.lspkg/Shaders/Bear_Material.ss_graph
+      - 10 Animal Material Pack.lspkg/Shaders/Cat_Material.ss_graph
+      - 10 Animal Material Pack.lspkg/Shaders/Dragon_Material.ss_graph
+      - 10 Animal Material Pack.lspkg/Shaders/Zebra_Material.ss_graph
+      - 10 Animal Material Pack.lspkg/Textures
+      - 10 Animal Material Pack.lspkg/Textures/Dragon_ao_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Dragon_displacement_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Dragon_normal_map_opengl.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Dragon_render_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Giraffe_ao_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Giraffe_color_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Giraffe_displacement_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Giraffe_normal_map_opengl.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Snake_ao_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Snake_displacement_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Snake_normal_map_opengl.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Snake_render_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Tiger_ao_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Tiger_displacement_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Tiger_normal_map_opengl.jpg
+      - 10 Animal Material Pack.lspkg/Textures/Tiger_render_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/bear_ao_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/bear_color_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/bear_displacement_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/bear_normal_map_opengl.jpg
+      - 10 Animal Material Pack.lspkg/Textures/cat_ao_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/cat_color_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/cat_displacement_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/cat_normal_map_opengl.jpg
+      - 10 Animal Material Pack.lspkg/Textures/cow_ao_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/cow_color_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/cow_displacement_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/cow_normal_map_opengl.jpg
+      - 10 Animal Material Pack.lspkg/Textures/fawn_ao_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/fawn_color_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/fawn_displacement_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/fawn_normal_map_opengl.jpg
+      - 10 Animal Material Pack.lspkg/Textures/lizard_ao_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/lizard_color_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/lizard_displacement_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/lizard_normal_map_opengl.jpg
+      - 10 Animal Material Pack.lspkg/Textures/zebra_ao_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/zebra_color_map.jpg
+      - 10 Animal Material Pack.lspkg/Textures/zebra_normal_map_opengl.jpg
+      - 10 Animal Material Pack.lspkg/package.native
+      - Animation Sync Controller.lsc
       - Base.png
+      - BunnyTex_v001.mat
       - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
       - "Custom Location AR.lspkg/Location Asset [REPLACE_LOCATION_ID].location"
-      - Custom Location AR.lspkg/Materials
       - Custom Location AR.lspkg/Materials/Hint Materials
       - Custom Location AR.lspkg/Materials/Hint Materials/Go To Animation.mat
       - Custom Location AR.lspkg/Materials/Hint Materials/Loading Ring.mat
@@ -17,8 +79,19 @@ CollapsedEntities:
       - Custom Location AR.lspkg/Materials/PBR.mat
       - Custom Location AR.lspkg/Materials/Segmentation.mat
       - Custom Location AR.lspkg/Materials/Snapcode.mat
-      - Custom Location AR.lspkg/Meshes
       - Custom Location AR.lspkg/Meshes/Box.mesh
+      - Custom Location AR.lspkg/Meshes/Bunny.fbx
+      - Custom Location AR.lspkg/Meshes/Bunny.fbx/.hidden/Bunny
+      - Custom Location AR.lspkg/Meshes/Bunny.fbx/.hidden/white
+      - Custom Location AR.lspkg/Meshes/Bunny.fbx/Animations/BaseLayer
+      - Custom Location AR.lspkg/Meshes/Bunny.fbx/Bunny
+      - Custom Location AR.lspkg/Meshes/Bunny.fbx/Materials/Bunny
+      - Custom Location AR.lspkg/Meshes/Bunny.fbx/Meshes/Mesh0
+      - Custom Location AR.lspkg/Meshes/Bunny.obj/.hidden/aiStandardSurface1SG
+      - Custom Location AR.lspkg/Meshes/Bunny.obj/.hidden/white
+      - Custom Location AR.lspkg/Meshes/Bunny.obj/Bunny
+      - Custom Location AR.lspkg/Meshes/Bunny.obj/Materials/aiStandardSurface1SG
+      - Custom Location AR.lspkg/Meshes/Bunny.obj/Meshes/Mesh0
       - Custom Location AR.lspkg/Meshes/Location Mesh.location_mesh
       - Custom Location AR.lspkg/Scripts
       - Custom Location AR.lspkg/Scripts/CustomLocationController.js
@@ -70,6 +143,25 @@ CollapsedEntities:
       - Custom Location AR.lspkg/package.native
       - Custom Location AR.lspkg/removable prefab.prefab
       - Echopark.hdr
+      - Follow Curved Path.lspkg
+      - Follow Curved Path.lspkg/A bit of fun.js
+      - Follow Curved Path.lspkg/Follow Curved Path.lsc
+      - Follow Curved Path.lspkg/MF_Torus.ss_graph
+      - Follow Curved Path.lspkg/MI_Torus.mat
+      - Follow Curved Path.lspkg/Torus.mesh
+      - Follow Curved Path.lspkg/TweenManager
+      - Follow Curved Path.lspkg/TweenManager/Tween
+      - Follow Curved Path.lspkg/TweenManager/Tween/Tween.lsc
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenManager.lsc
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc
+      - "Follow Curved Path.lspkg/[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE.prefab"
+      - Follow Curved Path.lspkg/package.native
+      - Gem Material.lspkg
+      - Gem Material.lspkg/Gem Material.mat
+      - Gem Material.lspkg/Gem Material.ss_graph
+      - Gem Material.lspkg/Screen Texture.screenTexture
+      - Material Texture Provider.lsc
       - MaterialParams.png
       - Move Along Path.lspkg
       - Move Along Path.lspkg/Fonts
@@ -90,6 +182,12 @@ CollapsedEntities:
       - Move Along Path.lspkg/package.native
       - Normal.png
       - PBR.mat
+      - Skybox Shader
+      - Skybox Shader/.hidden
+      - Skybox Shader/.hidden/Skybox.ss_graph
+      - Skybox Shader/Skybox.mat
+      - Skybox Shader/Textures
+      - Skybox Shader/Textures/uniformclouds.jpg
       - SpectaclesInteractionKit.lspkg/Assets
       - SpectaclesInteractionKit.lspkg/Assets/Audio
       - SpectaclesInteractionKit.lspkg/Assets/Audio/HoverAudioTrack.wav
@@ -511,5 +609,8 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/VersionNumber.ts
       - SpectaclesInteractionKit.lspkg/package.native
       - SpectaclesInteractionKit.lspkg/tsconfig.json
+      - Tween Transform.lsc
+      - Tween Value.lsc
+      - Tween.lsc
       - pbr.ss_graph
   options: 4

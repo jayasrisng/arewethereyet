@@ -1,6 +1,13 @@
 data:
   externalSources:
+    - 093e74d1-c682-47af-bbeb-d09f84166ec1: /Users/zanzan/Desktop/留/Bunny/Bunny.fbx
+    - 23451982-5f4d-4c75-bc63-ab5e21a57628: /Users/zanzan/Library/Preferences/Snap/Lens Studio/LibraryComponents/Tween Transform@1.0.0/Tween Transform.lsc
+    - 3e7bf187-04a9-4122-8765-6c58fe3d7cea: /Users/zanzan/Library/Preferences/Snap/Lens Studio/LibraryComponents/Tween@1.0.0/Tween.lsc
     - 9603a29e-7674-4f16-a140-4b3ee8a8081a: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/Resources/MaterialParams.png
+    - a32da0c6-3f1b-4f23-a2e8-4cc9cba14a11: /Users/zanzan/Library/Preferences/Snap/Lens Studio/LibraryComponents/Material Texture Provider@1.0.0/Material Texture Provider.lsc
     - a580f0b4-449f-4e81-b4a1-a7c0f78c9ff5: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/PBRMaterial/Resources/pbr.ss_graph
+    - bb174922-7a2d-4995-ac05-cac4208d096c: /Users/zanzan/Library/Preferences/Snap/Lens Studio/LibraryComponents/Tween Value@1.0.0/Tween Value.lsc
     - da0367c8-f98b-40bd-929d-997284218e28: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/Resources/Base.png
+    - dece8c83-b0ef-4eee-904d-4a0c8f35e2f5: /Users/zanzan/Library/Preferences/Snap/Lens Studio/LibraryComponents/Animation Sync Controller@1.0.0/Animation Sync Controller.lsc
     - e2e67734-fd1e-45fe-aae4-1a69ac2c207a: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/Resources/Normal.png
+    - ec752a97-3177-4b26-b1fe-771a71e05320: /Users/zanzan/Desktop/留/Bunny/Bunny.obj

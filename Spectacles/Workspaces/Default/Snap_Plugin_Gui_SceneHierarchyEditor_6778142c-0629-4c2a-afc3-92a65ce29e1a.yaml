@@ -1,37 +1,58 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 29
+    size: 50
     values:
       - 0005641c-028d-459a-0000-000000014b4d
       - 06a09cd5-5c55-472e-b4d6-f8ab735b8bec
       - 0dce4d8d-be62-4757-8916-40d274c8115d
       - 0dd06c4f-4d3b-485f-aeb0-c8ff0b3d4372
       - 0eff403a-b770-4867-924e-fd63ae383180
+      - 10f88661-f6d7-4eec-89ad-413e22061b15
+      - 111b87e6-e2e9-4bb1-83c4-a195d48edca4
+      - 2e61c53e-19e8-435a-ba16-2b2668194ddb
       - 2f6da8d1-a39f-43b2-95e7-f0f0a8de49fc
       - 3247df4e-6d7f-4ab2-b3a3-9981e98c9136
+      - 3afc33f0-5d4e-406d-8de8-4288c1ab58ec
       - 3b848fb1-11ab-4f32-9a54-47f72e52e7c5
+      - 3f19e8f2-6cac-4841-9142-6efa8481db36
+      - 4012673a-f3e0-4b74-be31-9ca2df93f076
       - 4380b29e-88bf-45c2-9c52-e39150fb5e54
+      - 456ac472-ca20-4857-b221-337e53a04c2e
+      - 46809afa-3b77-437d-bd06-25ee563eae1f
       - 46bfd374-574c-4bae-92e0-9a7fad6180be
+      - 48f59d7d-61fe-4ff3-a535-b651712d54ef
+      - 4a7432d1-3227-4ce4-bb0a-a0e3f054ac12
+      - 4b289b78-6bf1-4a72-a76b-266a604dd0e7
       - 4deb8c1b-f4af-402e-9038-8379f8f9fb88
       - 54a6205a-d276-415b-b76a-85460423f579
       - 55b38edd-6ee5-486f-be49-44f19a35aae7
       - 5810b576-cda6-4322-a4b1-cc0762f6e808
+      - 68a586c7-22c6-43bb-8d96-b6182995ddef
       - 68bde01f-0d6f-46ea-80e2-a50097c2cd85
       - 7b9dfe62-758d-4b65-9bbc-c0398a87bf61
+      - 7f466c37-9e51-489c-ba24-627209bb9770
+      - 92a84810-a923-4742-b5c1-c608a3d973ac
       - 96670963-009c-4868-8419-51d4f49b94a2
       - 9f627e6f-4bbc-4ad6-8082-96410c93a929
       - a2c66d7e-a03d-44de-baf3-63363fe8d44c
       - acd1da61-5931-4dbf-b80b-355671f55102
       - b0b110c9-d63b-422d-b775-487ff2690a52
       - b9918f28-529b-44b3-94e2-76bdedf9f10d
+      - c7630465-c335-4ad8-9ff3-7122f12abea7
       - c8086de8-ca74-4eba-8d0f-33a74b0bd996
       - ca6749c3-843e-4d43-a57c-88ec507c9c2f
+      - cdc71221-73a8-4ae8-ae22-8abc2c58025a
       - d67340cc-d843-4573-a7db-00202e625b51
       - d8402431-9795-4a94-82f4-77e53232ebf4
       - d91b41b0-1d10-405e-97c9-e730e94bb9e6
+      - d966ea34-2f58-41c9-962d-e3c7c0f77933
       - db9107f4-4b65-47b6-a2b4-3454f4a7d362
+      - dd5d649b-74ac-4476-a3fb-4ee45da8de04
+      - f4ff3059-41c9-4f74-83bf-bc5971ef012a
       - f58a1f9f-aaf8-40f2-8148-e3d3c4bd55de
+      - f87ef6a3-2cab-4ef9-a0d5-23a01cffd176
+      - fea9a703-ce67-452a-a9b7-64322ba3f60b
   options: 4
 PinnedEntities:
   type: uuids
