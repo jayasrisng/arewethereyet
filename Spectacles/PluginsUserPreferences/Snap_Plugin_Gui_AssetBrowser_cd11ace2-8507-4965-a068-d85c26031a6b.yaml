@@ -3,7 +3,6 @@ CollapsedEntities:
   value:
     size: 508
     values:
-      - ""
       - Base.png
       - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
       - "Custom Location AR.lspkg/Location Asset [REPLACE_LOCATION_ID].location"
@@ -89,6 +88,7 @@ CollapsedEntities:
       - Move Along Path.lspkg/package.native
       - Normal.png
       - PBR.mat
+      - Scene.scene
       - SpectaclesInteractionKit.lspkg/Assets
       - SpectaclesInteractionKit.lspkg/Assets/Audio
       - SpectaclesInteractionKit.lspkg/Assets/Audio/HoverAudioTrack.wav
