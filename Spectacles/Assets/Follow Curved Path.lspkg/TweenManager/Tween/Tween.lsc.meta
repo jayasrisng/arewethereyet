@@ -1,10 +1,10 @@
-- !<AssetImportMetadata/3181eba6-00ab-d6a0-6f15-f2958eee4d75>
+- !<AssetImportMetadata/287655a6-590f-196c-74df-8200f268e6a7>
   ImportedAssetIds:
-    bb465be5-9951-425c-8f75-6030bcc52e2a: !<reference> 24acc616-1fa6-4c0e-9774-9aabc4a556a4
-    ed9b1770-7666-4615-a78d-c68631c85508: !<reference> 6ebf7571-1096-425a-8636-49899a42b3b9
-    17a55beb-aea7-4cf1-87a9-2a865ef62d00: !<reference> aab5aa48-4efa-4f32-8be6-630a2b1e9ae8
+    bb465be5-9951-425c-8f75-6030bcc52e2a: !<reference> a137e54f-ab91-4ac2-9ce0-65641c23fa42
+    ed9b1770-7666-4615-a78d-c68631c85508: !<reference> caec7b29-b571-47aa-a47c-446bf56ef5ed
+    17a55beb-aea7-4cf1-87a9-2a865ef62d00: !<reference> bdd6c964-8876-4c10-bc34-04f0dcbe19fd
   ImporterName: NativePackageImporter
-  PrimaryAsset: !<reference> aab5aa48-4efa-4f32-8be6-630a2b1e9ae8
+  PrimaryAsset: !<reference> bdd6c964-8876-4c10-bc34-04f0dcbe19fd
   PackageType: PackedNativePackageRoot
   LegacyPackagePolicy: ~
   ExtraData:

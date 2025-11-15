@@ -277,7 +277,7 @@
     []
   Name: Tween
   Enabled: true
-  ScriptAsset: !<reference> aab5aa48-4efa-4f32-8be6-630a2b1e9ae8
+  ScriptAsset: !<reference> bdd6c964-8876-4c10-bc34-04f0dcbe19fd
   ScriptInputsDefault:
     {}
   ScriptTypesDefault:
@@ -455,7 +455,7 @@
     []
   Name: TweenManager
   Enabled: true
-  ScriptAsset: !<reference> 266f290d-d995-431b-a23d-01f6072e6c93
+  ScriptAsset: !<reference> c9739166-a006-4038-a529-9fef21f1db8a
   ScriptInputsDefault:
     printDebugLog: true
   ScriptTypesDefault:

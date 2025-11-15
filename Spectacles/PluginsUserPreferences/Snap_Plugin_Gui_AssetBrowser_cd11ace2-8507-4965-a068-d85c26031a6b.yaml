@@ -1,9 +1,9 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 508
+    size: 522
     values:
-      - Custom Location AR.lspkg
+      - Base.png
       - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
       - "Custom Location AR.lspkg/Location Asset [REPLACE_LOCATION_ID].location"
       - Custom Location AR.lspkg/Materials
@@ -23,14 +23,28 @@ CollapsedEntities:
       - Custom Location AR.lspkg/Textures/Segmentation Textures/Portrait Background Segmentation.segmentationTexture
       - Custom Location AR.lspkg/package.native
       - Echopark.hdr
+      - Follow Curved Path.lspkg
+      - Follow Curved Path.lspkg/A bit of fun.js
+      - Follow Curved Path.lspkg/Follow Curved Path.lsc
+      - Follow Curved Path.lspkg/MF_Torus.ss_graph
+      - Follow Curved Path.lspkg/MI_Torus.mat
+      - Follow Curved Path.lspkg/Torus.mesh
+      - Follow Curved Path.lspkg/TweenManager
+      - Follow Curved Path.lspkg/TweenManager/Tween
+      - Follow Curved Path.lspkg/TweenManager/Tween/Tween.lsc
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenManager.lsc
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc
+      - "Follow Curved Path.lspkg/[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE.prefab"
+      - Follow Curved Path.lspkg/package.native
       - MaterialParams.png
       - Move Along Path.lspkg
       - Move Along Path.lspkg/Materials/UberDiffuse.mat
       - Move Along Path.lspkg/MoveAlongPath__PLACE_IN_SCENE.prefab
       - Move Along Path.lspkg/package.native
-      - Render Target.renderTarget
+      - Normal.png
+      - PBR.mat
       - Scene.scene
-      - SpectaclesInteractionKit.lspkg
       - SpectaclesInteractionKit.lspkg/Assets
       - SpectaclesInteractionKit.lspkg/Assets/Audio
       - SpectaclesInteractionKit.lspkg/Assets/Audio/HoverAudioTrack.wav

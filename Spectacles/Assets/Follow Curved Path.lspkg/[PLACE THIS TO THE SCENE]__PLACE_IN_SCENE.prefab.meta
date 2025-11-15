@@ -1,4 +1,4 @@
-- !<AssetImportMetadata/7c1471a0-c305-2618-0c90-21f927c43aad>
+- !<AssetImportMetadata/8ba2f95a-466f-18fe-0ae7-9b7b4fe4c5d4>
   ImportedAssetIds:
     ObjectPrefab: !<reference> 70bfed90-dd45-42b2-9575-eea7719a46cb
   ImporterName: ObjectPrefabImporter
@@ -45,7 +45,7 @@
   Components:
     []
 - !<ObjectPrefabAssetData/121e5f0a-b55e-4282-a0a8-662ea6513916>
-  Prototype: !<ObjectOwner/45365a19-3e5b-400f-bb6c-2dc058f5233e>
+  Prototype: !<ObjectOwner/3efd3a73-9115-464f-96bd-65d70fcad87d>
     PackagePath: ""
     objects:
       - !<own> 832d7246-40bf-4d67-4dbc-c597ba41dc39
@@ -272,7 +272,7 @@
     []
   Name: Tween
   Enabled: true
-  ScriptAsset: !<reference> aab5aa48-4efa-4f32-8be6-630a2b1e9ae8
+  ScriptAsset: !<reference> bdd6c964-8876-4c10-bc34-04f0dcbe19fd
   ScriptInputsDefault:
     {}
   ScriptTypesDefault:
@@ -450,7 +450,7 @@
     []
   Name: TweenManager
   Enabled: true
-  ScriptAsset: !<reference> 266f290d-d995-431b-a23d-01f6072e6c93
+  ScriptAsset: !<reference> c9739166-a006-4038-a529-9fef21f1db8a
   ScriptInputsDefault:
     printDebugLog: true
   ScriptTypesDefault:
