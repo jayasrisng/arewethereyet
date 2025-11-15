@@ -1,10 +1,95 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 423
+    size: 509
     values:
       - ""
-      - SpectaclesInteractionKit.lspkg
+      - Base.png
+      - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
+      - "Custom Location AR.lspkg/Location Asset [REPLACE_LOCATION_ID].location"
+      - Custom Location AR.lspkg/Materials
+      - Custom Location AR.lspkg/Materials/Hint Materials
+      - Custom Location AR.lspkg/Materials/Hint Materials/Go To Animation.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Loading Ring.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Location Icon 2.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Location Icon.mat
+      - Custom Location AR.lspkg/Materials/LocationMesh.mat
+      - Custom Location AR.lspkg/Materials/PBR.mat
+      - Custom Location AR.lspkg/Materials/Segmentation.mat
+      - Custom Location AR.lspkg/Materials/Snapcode.mat
+      - Custom Location AR.lspkg/Meshes
+      - Custom Location AR.lspkg/Meshes/Box.mesh
+      - Custom Location AR.lspkg/Meshes/Location Mesh.location_mesh
+      - Custom Location AR.lspkg/Scripts
+      - Custom Location AR.lspkg/Scripts/CustomLocationController.js
+      - Custom Location AR.lspkg/Scripts/FrontCameraMirror.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.lsc
+      - Custom Location AR.lspkg/Scripts/HelperScripts/ParentToCamera.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/SetRenderOrder.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/SpectaclesDisable.ts
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/Tween.lsc
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenManager.lsc
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenAlpha.lsc
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenScreenTransform.lsc
+      - Custom Location AR.lspkg/Scripts/Information Scripts
+      - Custom Location AR.lspkg/Scripts/Information Scripts/CameraSetUp.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts/LocationAssetInformation.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts/MarkerGuide.js
+      - Custom Location AR.lspkg/Scripts/Status
+      - Custom Location AR.lspkg/Scripts/Status/StatusController.js
+      - Custom Location AR.lspkg/Shaders
+      - Custom Location AR.lspkg/Shaders/LocationMesh.ss_graph
+      - Custom Location AR.lspkg/Shaders/Segmentation.ss_graph
+      - Custom Location AR.lspkg/Shaders/UI.ss_graph
+      - Custom Location AR.lspkg/Shaders/flat.ss_graph
+      - Custom Location AR.lspkg/Shaders/pbr.ss_graph
+      - Custom Location AR.lspkg/Textures
+      - Custom Location AR.lspkg/Textures/Base.png
+      - Custom Location AR.lspkg/Textures/Device Camera Texture.deviceCameraTexture
+      - Custom Location AR.lspkg/Textures/Hint Textures
+      - Custom Location AR.lspkg/Textures/Hint Textures/failed_texture.png
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/atlas_0.pvr
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/go_to_anim
+      - "Custom Location AR.lspkg/Textures/Hint Textures/location_icon [REPLACE_ME].png"
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/atlas_0.pvr
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/point_at_anim
+      - Custom Location AR.lspkg/Textures/MaterialParams.png
+      - Custom Location AR.lspkg/Textures/Normal.png
+      - Custom Location AR.lspkg/Textures/Segmentation Textures
+      - Custom Location AR.lspkg/Textures/Segmentation Textures/Body Segmentation.segmentationTexture
+      - Custom Location AR.lspkg/Textures/Segmentation Textures/Portrait Background Segmentation.segmentationTexture
+      - Custom Location AR.lspkg/Textures/custom-landmarker-scan-1-a783491b4024b59080a5d840915eec86.png
+      - Custom Location AR.lspkg/Textures/loading_ring.png
+      - Custom Location AR.lspkg/package.native
+      - Custom Location AR.lspkg/removable prefab.prefab
+      - Echopark.hdr
+      - MaterialParams.png
+      - Move Along Path.lspkg
+      - Move Along Path.lspkg/Fonts
+      - Move Along Path.lspkg/Fonts/fredoka_one_regular.ttf
+      - Move Along Path.lspkg/Materials
+      - Move Along Path.lspkg/Materials/UberDiffuse.mat
+      - Move Along Path.lspkg/Meshes
+      - Move Along Path.lspkg/Meshes/Box.mesh
+      - Move Along Path.lspkg/Meshes/Sphere.mesh
+      - Move Along Path.lspkg/MoveAlongPath__PLACE_IN_SCENE.prefab
+      - Move Along Path.lspkg/Scripts
+      - Move Along Path.lspkg/Scripts/MoveAlongPath.js
+      - Move Along Path.lspkg/Shaders
+      - Move Along Path.lspkg/Shaders/UberDiffuse1.ss_graph
+      - Move Along Path.lspkg/Textures
+      - Move Along Path.lspkg/Textures/Base.png
+      - Move Along Path.lspkg/Textures/Normal.png
+      - Move Along Path.lspkg/package.native
+      - Normal.png
+      - PBR.mat
       - SpectaclesInteractionKit.lspkg/Assets
       - SpectaclesInteractionKit.lspkg/Assets/Audio
       - SpectaclesInteractionKit.lspkg/Assets/Audio/HoverAudioTrack.wav
@@ -426,4 +511,5 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/VersionNumber.ts
       - SpectaclesInteractionKit.lspkg/package.native
       - SpectaclesInteractionKit.lspkg/tsconfig.json
+      - pbr.ss_graph
   options: 4
