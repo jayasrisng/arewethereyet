@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 509
+    size: 508
     values:
       - ""
       - Base.png
@@ -68,7 +68,6 @@ CollapsedEntities:
       - Custom Location AR.lspkg/Textures/custom-landmarker-scan-1-a783491b4024b59080a5d840915eec86.png
       - Custom Location AR.lspkg/Textures/loading_ring.png
       - Custom Location AR.lspkg/package.native
-      - Custom Location AR.lspkg/removable prefab.prefab
       - Echopark.hdr
       - MaterialParams.png
       - Move Along Path.lspkg

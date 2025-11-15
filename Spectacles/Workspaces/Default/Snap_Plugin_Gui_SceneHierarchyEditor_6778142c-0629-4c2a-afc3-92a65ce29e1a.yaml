@@ -1,37 +1,28 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 29
+    size: 20
     values:
       - 0005641c-028d-459a-0000-000000014b4d
       - 06a09cd5-5c55-472e-b4d6-f8ab735b8bec
-      - 0dce4d8d-be62-4757-8916-40d274c8115d
       - 0dd06c4f-4d3b-485f-aeb0-c8ff0b3d4372
       - 0eff403a-b770-4867-924e-fd63ae383180
-      - 2f6da8d1-a39f-43b2-95e7-f0f0a8de49fc
       - 3247df4e-6d7f-4ab2-b3a3-9981e98c9136
       - 3b848fb1-11ab-4f32-9a54-47f72e52e7c5
       - 4380b29e-88bf-45c2-9c52-e39150fb5e54
       - 46bfd374-574c-4bae-92e0-9a7fad6180be
       - 4deb8c1b-f4af-402e-9038-8379f8f9fb88
-      - 54a6205a-d276-415b-b76a-85460423f579
-      - 55b38edd-6ee5-486f-be49-44f19a35aae7
       - 5810b576-cda6-4322-a4b1-cc0762f6e808
       - 68bde01f-0d6f-46ea-80e2-a50097c2cd85
       - 7b9dfe62-758d-4b65-9bbc-c0398a87bf61
-      - 96670963-009c-4868-8419-51d4f49b94a2
       - 9f627e6f-4bbc-4ad6-8082-96410c93a929
       - a2c66d7e-a03d-44de-baf3-63363fe8d44c
       - acd1da61-5931-4dbf-b80b-355671f55102
       - b0b110c9-d63b-422d-b775-487ff2690a52
       - b9918f28-529b-44b3-94e2-76bdedf9f10d
       - c8086de8-ca74-4eba-8d0f-33a74b0bd996
-      - ca6749c3-843e-4d43-a57c-88ec507c9c2f
-      - d67340cc-d843-4573-a7db-00202e625b51
-      - d8402431-9795-4a94-82f4-77e53232ebf4
       - d91b41b0-1d10-405e-97c9-e730e94bb9e6
       - db9107f4-4b65-47b6-a2b4-3454f4a7d362
-      - f58a1f9f-aaf8-40f2-8148-e3d3c4bd55de
   options: 4
 PinnedEntities:
   type: uuids
