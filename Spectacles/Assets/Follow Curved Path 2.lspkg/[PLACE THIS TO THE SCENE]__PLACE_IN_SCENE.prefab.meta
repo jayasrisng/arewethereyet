@@ -1,0 +1,494 @@
+- !<AssetImportMetadata/f16b7d49-151d-6a69-0992-10f0c39ddb14>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> c6495b6d-665c-40fa-87a8-6e9e50ee2793
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> c6495b6d-665c-40fa-87a8-6e9e50ee2793
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    AssetLibraryId: 3Zpq1FbmxKmU8UMy8q1nDs
+  AssetDataMap:
+    ObjectPrefab: !<own> 97a3a484-ebc6-47aa-826e-64230db27e49
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptComponent/1332321a-4f36-4460-7673-30a5c6a434d6>
+  PrefabRemaps:
+    []
+  Name: Tween
+  Enabled: true
+  ScriptAsset: !<reference> 71ad6fee-9891-4ec2-b7ad-aa79a73c9b94
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      {}
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/145ea113-34a5-4649-704e-e593a6916bae>
+  PrefabRemaps:
+    []
+  Name: "[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE"
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> fb9cc7be-19ef-42e2-63ac-61ee9b53d17e
+    - !<own> 2226fb99-0ef0-45d6-4bc6-e80964a6ad31
+    - !<own> fac6572f-1e13-4b7c-6e16-3312452f6941
+    - !<own> 42259493-87b4-463c-671e-5dd995808672
+    - !<own> a6b67646-7e50-4a26-4b30-df1c71b9a706
+  Components:
+    []
+- !<ScriptComponent/1c5caa7e-f740-4e11-4c54-a0d0c0cf32cb>
+  PrefabRemaps:
+    []
+  Name: A bit of fun
+  Enabled: true
+  ScriptAsset: !<reference> e2add366-83af-4eeb-b0fb-a0d2fb59b858
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      controlPoints: !<reference.SceneObject> fac6572f-1e13-4b7c-6e16-3312452f6941
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/1de50b2a-23ba-426b-6359-939ed3df3979>
+  PrefabRemaps:
+    []
+  Name: Follow Curved Path
+  Enabled: true
+  ScriptAsset: !<reference> e0d56914-6b07-4984-9b10-b94234cbdf7e
+  ScriptInputsDefault:
+    offset: true
+    horizontalAngle: true
+    cyclic: true
+    reversed: true
+    move: true
+    loop: true
+    eventType: true
+    debug: true
+    showControlPoints: true
+    resolution: true
+    radius: true
+    pathMaterial: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      tracker: !<reference.SceneObject> 42259493-87b4-463c-671e-5dd995808672
+      controlPoints: !<reference.SceneObject> fac6572f-1e13-4b7c-6e16-3312452f6941
+      offset: !<float> 0.000000
+      horizontalAngle: !<float> 0.000000
+      smoothRotation: false
+      cyclic: true
+      reversed: false
+      move: false
+      loop: false
+      eventType: TapEvent
+      debug: true
+      showControlPoints: true
+      resolution: !<Vec2> {x: 4.000000, y: 4.000000}
+      radius: 0.300000
+      pathMaterial: !<reference.Material> af145be0-7ffe-4c7a-97d9-41855fab8e49
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/2226fb99-0ef0-45d6-4bc6-e80964a6ad31>
+  PrefabRemaps:
+    []
+  Name: Tweens
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1332321a-4f36-4460-7673-30a5c6a434d6
+    - !<own> 26b5724b-fa0c-4bdf-5d7e-79e439ba0dad
+    - !<own> baa69eb8-bdfe-4041-7c20-529563cf5c24
+    - !<own> da382a67-3af3-4c9a-4a41-7f2b010b1622
+- !<ScriptComponent/26b5724b-fa0c-4bdf-5d7e-79e439ba0dad>
+  PrefabRemaps:
+    []
+  Name: TweenManager
+  Enabled: true
+  ScriptAsset: !<reference> 7702fb20-6cb4-4ed4-a2b3-ce6686b287a5
+  ScriptInputsDefault:
+    printDebugLog: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      printDebugLog: false
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/42259493-87b4-463c-671e-5dd995808672>
+  PrefabRemaps:
+    []
+  Name: Torus
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c16153e0-7c58-4267-4b90-e20ab28efd6a
+- !<SceneObject/49166c70-95fd-4261-45d5-e8c1f71c2e1a>
+  PrefabRemaps:
+    []
+  Name: 04
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -10.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/76f5876c-5369-4e68-4113-89b7cee59102>
+  PrefabRemaps:
+    []
+  Name: 03
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -7.000000, y: -7.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/8b84d6ac-b340-4c10-5efe-2d0ce62e51f2>
+  PrefabRemaps:
+    []
+  Name: 07
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 7.000000, y: 7.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/8bf0a9ff-ba40-428c-5355-295fc2fe8b06>
+  PrefabRemaps:
+    []
+  Name: 05
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 7.000000, y: -7.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<ObjectPrefabAssetData/97a3a484-ebc6-47aa-826e-64230db27e49>
+  Prototype: !<ObjectOwner/10f73cba-4d74-4cc8-8f41-ce81457fc418>
+    PackagePath: ""
+    objects:
+      - !<own> 145ea113-34a5-4649-704e-e593a6916bae
+- !<SceneObject/a6b67646-7e50-4a26-4b30-df1c71b9a706>
+  PrefabRemaps:
+    []
+  Name: Follow Curved Path
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1de50b2a-23ba-426b-6359-939ed3df3979
+- !<SceneObject/b60359ac-2611-4a6a-4259-bb54e6e01e8b>
+  PrefabRemaps:
+    []
+  Name: 00
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 10.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<ScriptComponent/baa69eb8-bdfe-4041-7c20-529563cf5c24>
+  PrefabRemaps:
+    []
+  Name: TweenValue
+  Enabled: true
+  ScriptAsset: !<reference> 28eefa38-867c-4b4a-9c47-1864ac978fc2
+  ScriptInputsDefault:
+    playAutomatically: true
+    startInt: true
+    endInt: true
+    startFloat: true
+    startVector2: true
+    endVector2: true
+    startVector3: true
+    endVector3: true
+    startVector4: true
+    endVector4: true
+    startRGB: true
+    endRGB: true
+    startRGBA: true
+    endRGBA: true
+    delay: true
+    propTargetScript: true
+    propName: true
+    materialMeshVisual: true
+    material: true
+    materialScriptName: true
+    vfxComponent: true
+    vfxAsset: true
+    vfxScriptName: true
+    easingFunction: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      tweenName: Move
+      playAutomatically: true
+      loopType: 1
+      dataType: 1
+      startInt: 0
+      endInt: 1
+      startFloat: !<float> 0.000000
+      endFloat: !<float> 8.000000
+      startVector2: !<Vec2> {x: 0.000000, y: 0.000000}
+      endVector2: !<Vec2> {x: 1.000000, y: 1.000000}
+      startVector3: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      endVector3: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      startVector4: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      endVector4: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      startRGB: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      endRGB: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      startRGBA: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      endRGBA: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      time: !<float> 3.000000
+      delay: !<float> 0.000000
+      callbackType: 2
+      propTargetScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      propName: ""
+      funcTargetScript: !<reference.ScriptComponent> 1de50b2a-23ba-426b-6359-939ed3df3979
+      funcName: pathOffset
+      materialMeshVisual: !<reference.MaterialMeshVisual> 00000000-0000-0000-0000-000000000000
+      material: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      materialScriptName: baseColor
+      vfxComponent: !<reference.VFXComponent> 00000000-0000-0000-0000-000000000000
+      vfxAsset: !<reference.VFXAsset> 00000000-0000-0000-0000-000000000000
+      vfxScriptName: baseColor
+      easingFunction: Quadratic
+      easingType: InOut
+  ScriptTypes:
+    "":
+      {}
+- !<RenderMeshVisual/c16153e0-7c58-4267-4b90-e20ab28efd6a>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 85edae9e-6473-4e63-b256-c00431de9966
+  Mesh: !<reference> 40ef70d8-5feb-4e3f-a4be-2e0478d1a9b5
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/ca2f5dbd-7f21-4cf0-52e7-b9ea8232e1d2>
+  PrefabRemaps:
+    []
+  Name: 02
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<ScriptComponent/da382a67-3af3-4c9a-4a41-7f2b010b1622>
+  PrefabRemaps:
+    []
+  Name: TweenValue
+  Enabled: true
+  ScriptAsset: !<reference> 28eefa38-867c-4b4a-9c47-1864ac978fc2
+  ScriptInputsDefault:
+    playAutomatically: true
+    startInt: true
+    endInt: true
+    startFloat: true
+    startVector2: true
+    endVector2: true
+    startVector3: true
+    endVector3: true
+    startVector4: true
+    endVector4: true
+    startRGB: true
+    endRGB: true
+    startRGBA: true
+    endRGBA: true
+    delay: true
+    materialMeshVisual: true
+    material: true
+    materialScriptName: true
+    vfxComponent: true
+    vfxAsset: true
+    vfxScriptName: true
+    easingFunction: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      tweenName: Rotate
+      playAutomatically: true
+      loopType: 1
+      dataType: 1
+      startInt: 0
+      endInt: 1
+      startFloat: !<float> 0.000000
+      endFloat: !<float> 360.000000
+      startVector2: !<Vec2> {x: 0.000000, y: 0.000000}
+      endVector2: !<Vec2> {x: 1.000000, y: 1.000000}
+      startVector3: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      endVector3: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      startVector4: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      endVector4: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      startRGB: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      endRGB: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      startRGBA: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      endRGBA: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      time: 1.500000
+      delay: !<float> 0.000000
+      callbackType: 2
+      propTargetScript: !<reference.ScriptComponent> 8504f8a1-8a06-4ab0-a700-8f84c74baeb9
+      propName: horizontalAngle
+      funcTargetScript: !<reference.ScriptComponent> 1de50b2a-23ba-426b-6359-939ed3df3979
+      funcName: horizontalAngle
+      materialMeshVisual: !<reference.MaterialMeshVisual> 00000000-0000-0000-0000-000000000000
+      material: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      materialScriptName: baseColor
+      vfxComponent: !<reference.VFXComponent> 00000000-0000-0000-0000-000000000000
+      vfxAsset: !<reference.VFXAsset> 00000000-0000-0000-0000-000000000000
+      vfxScriptName: baseColor
+      easingFunction: Quadratic
+      easingType: InOut
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/eb080d90-1a1a-49a3-6dc0-54d1e83fcda9>
+  PrefabRemaps:
+    []
+  Name: 06
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/fac6572f-1e13-4b7c-6e16-3312452f6941>
+  PrefabRemaps:
+    []
+  Name: Control Points
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b60359ac-2611-4a6a-4259-bb54e6e01e8b
+    - !<own> ffe99d57-c900-494c-608b-652e42d1b7fa
+    - !<own> ca2f5dbd-7f21-4cf0-52e7-b9ea8232e1d2
+    - !<own> 76f5876c-5369-4e68-4113-89b7cee59102
+    - !<own> 49166c70-95fd-4261-45d5-e8c1f71c2e1a
+    - !<own> 8bf0a9ff-ba40-428c-5355-295fc2fe8b06
+    - !<own> eb080d90-1a1a-49a3-6dc0-54d1e83fcda9
+    - !<own> 8b84d6ac-b340-4c10-5efe-2d0ce62e51f2
+  Components:
+    []
+- !<SceneObject/fb9cc7be-19ef-42e2-63ac-61ee9b53d17e>
+  PrefabRemaps:
+    []
+  Name: A bit of fun
+  Enabled: false
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1c5caa7e-f740-4e11-4c54-a0d0c0cf32cb
+- !<SceneObject/ffe99d57-c900-494c-608b-652e42d1b7fa>
+  PrefabRemaps:
+    []
+  Name: 01
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -7.000000, y: 7.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
