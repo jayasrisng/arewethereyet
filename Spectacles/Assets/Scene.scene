@@ -2126,7 +2126,6 @@
   ScriptInputsDefault:
     offset: true
     horizontalAngle: true
-    cyclic: true
     reversed: true
     move: true
     loop: true
@@ -2145,7 +2144,7 @@
       offset: !<float> 0.000000
       horizontalAngle: !<float> 0.000000
       smoothRotation: false
-      cyclic: true
+      cyclic: false
       reversed: false
       move: false
       loop: false
@@ -2299,8 +2298,8 @@
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: -2.277443, z: 0.000000}
-    Rotation: {x: -94.738274, y: 2.342384, z: -5.208520}
+    Position: {x: 0.000000, y: -39.705902, z: 0.000000}
+    Rotation: {x: -95.307205, y: 2.802283, z: -0.355932}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
@@ -6887,7 +6886,7 @@
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 100.292938, z: 0.000000}
+    Position: {x: 0.000000, y: -59.903519, z: 0.000000}
     Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
