@@ -6,7 +6,7 @@
   PackageType: NotAPackage
   LegacyPackagePolicy: ~
   ExtraData:
-    AssetLibraryId: 7eEDXkWHbYfZ6BCIra3PfW
+    {}
   AssetDataMap:
     ObjectPrefab: !<own> 674fccf7-58f7-4844-aa2a-3653026a8f15
   DependentFiles:

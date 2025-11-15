@@ -6,7 +6,7 @@
   PackageType: NotAPackage
   LegacyPackagePolicy: ~
   ExtraData:
-    AssetLibraryId: 7eEDXkWHbYfZ6BCIra3PfW
+    {}
   AssetDataMap:
     JavaScriptAsset: !<own> 2db5cb7a-ac71-4a6f-984d-611a7da0524b
   DependentFiles:
