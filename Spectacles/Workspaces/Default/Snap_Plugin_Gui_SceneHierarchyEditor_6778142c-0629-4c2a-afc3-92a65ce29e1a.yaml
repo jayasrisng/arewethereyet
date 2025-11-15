@@ -1,7 +1,11 @@
 CollapsedEntities:
   type: stringset
   value:
+<<<<<<< Updated upstream
     size: 46
+=======
+    size: 21
+>>>>>>> Stashed changes
     values:
       - 0005641c-028d-459a-0000-000000014b4d
       - 06a09cd5-5c55-472e-b4d6-f8ab735b8bec
@@ -17,6 +21,7 @@ CollapsedEntities:
       - 3d408803-8f48-45b2-bcf8-fbbfe2357b8c
       - 4380b29e-88bf-45c2-9c52-e39150fb5e54
       - 46bfd374-574c-4bae-92e0-9a7fad6180be
+      - 4a7432d1-3227-4ce4-bb0a-a0e3f054ac12
       - 4deb8c1b-f4af-402e-9038-8379f8f9fb88
       - 5810b576-cda6-4322-a4b1-cc0762f6e808
       - 68bde01f-0d6f-46ea-80e2-a50097c2cd85
