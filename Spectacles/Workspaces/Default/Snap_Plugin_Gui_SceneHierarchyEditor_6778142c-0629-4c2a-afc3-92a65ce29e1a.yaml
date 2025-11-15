@@ -2,7 +2,11 @@ CollapsedEntities:
   type: stringset
   value:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     size: 46
+=======
+    size: 21
+>>>>>>> Stashed changes
 =======
     size: 21
 >>>>>>> Stashed changes

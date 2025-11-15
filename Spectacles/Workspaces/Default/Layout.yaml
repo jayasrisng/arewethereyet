@@ -70,6 +70,9 @@ dock:
       - 527
       - 363
       - 245
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     type: splitter
     orientation: horizontal
