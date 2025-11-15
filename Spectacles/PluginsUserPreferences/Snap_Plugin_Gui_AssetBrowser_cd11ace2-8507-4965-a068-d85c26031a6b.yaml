@@ -1,14 +1,12 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 509
+    size: 630
     values:
-      - ""
-      - Base.png
+      - Custom Location AR.lspkg
       - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
       - "Custom Location AR.lspkg/Location Asset [REPLACE_LOCATION_ID].location"
       - Custom Location AR.lspkg/Materials
-      - Custom Location AR.lspkg/Materials/Hint Materials
       - Custom Location AR.lspkg/Materials/Hint Materials/Go To Animation.mat
       - Custom Location AR.lspkg/Materials/Hint Materials/Loading Ring.mat
       - Custom Location AR.lspkg/Materials/Hint Materials/Location Icon 2.mat
@@ -17,79 +15,49 @@ CollapsedEntities:
       - Custom Location AR.lspkg/Materials/PBR.mat
       - Custom Location AR.lspkg/Materials/Segmentation.mat
       - Custom Location AR.lspkg/Materials/Snapcode.mat
-      - Custom Location AR.lspkg/Meshes
-      - Custom Location AR.lspkg/Meshes/Box.mesh
       - Custom Location AR.lspkg/Meshes/Location Mesh.location_mesh
       - Custom Location AR.lspkg/Scripts
-      - Custom Location AR.lspkg/Scripts/CustomLocationController.js
-      - Custom Location AR.lspkg/Scripts/FrontCameraMirror.js
-      - Custom Location AR.lspkg/Scripts/HelperScripts
-      - Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.lsc
-      - Custom Location AR.lspkg/Scripts/HelperScripts/ParentToCamera.js
-      - Custom Location AR.lspkg/Scripts/HelperScripts/SetRenderOrder.js
-      - Custom Location AR.lspkg/Scripts/HelperScripts/SpectaclesDisable.ts
-      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween
-      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/Tween.lsc
-      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenManager.lsc
-      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes
-      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenAlpha.lsc
-      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenScreenTransform.lsc
-      - Custom Location AR.lspkg/Scripts/Information Scripts
-      - Custom Location AR.lspkg/Scripts/Information Scripts/CameraSetUp.js
-      - Custom Location AR.lspkg/Scripts/Information Scripts/LocationAssetInformation.js
-      - Custom Location AR.lspkg/Scripts/Information Scripts/MarkerGuide.js
-      - Custom Location AR.lspkg/Scripts/Status
-      - Custom Location AR.lspkg/Scripts/Status/StatusController.js
       - Custom Location AR.lspkg/Shaders
-      - Custom Location AR.lspkg/Shaders/LocationMesh.ss_graph
-      - Custom Location AR.lspkg/Shaders/Segmentation.ss_graph
-      - Custom Location AR.lspkg/Shaders/UI.ss_graph
-      - Custom Location AR.lspkg/Shaders/flat.ss_graph
-      - Custom Location AR.lspkg/Shaders/pbr.ss_graph
-      - Custom Location AR.lspkg/Textures
-      - Custom Location AR.lspkg/Textures/Base.png
       - Custom Location AR.lspkg/Textures/Device Camera Texture.deviceCameraTexture
-      - Custom Location AR.lspkg/Textures/Hint Textures
-      - Custom Location AR.lspkg/Textures/Hint Textures/failed_texture.png
-      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim
-      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d
-      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/atlas_0.pvr
-      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/go_to_anim
-      - "Custom Location AR.lspkg/Textures/Hint Textures/location_icon [REPLACE_ME].png"
-      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim
-      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d
-      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/atlas_0.pvr
-      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/point_at_anim
-      - Custom Location AR.lspkg/Textures/MaterialParams.png
-      - Custom Location AR.lspkg/Textures/Normal.png
-      - Custom Location AR.lspkg/Textures/Segmentation Textures
       - Custom Location AR.lspkg/Textures/Segmentation Textures/Body Segmentation.segmentationTexture
       - Custom Location AR.lspkg/Textures/Segmentation Textures/Portrait Background Segmentation.segmentationTexture
-      - Custom Location AR.lspkg/Textures/custom-landmarker-scan-1-a783491b4024b59080a5d840915eec86.png
-      - Custom Location AR.lspkg/Textures/loading_ring.png
       - Custom Location AR.lspkg/package.native
-      - Custom Location AR.lspkg/removable prefab.prefab
-      - Echopark.hdr
-      - MaterialParams.png
+      - Device Camera Texture.deviceCameraTexture
+      - Follow Curved Path 2.lspkg
+      - Follow Curved Path 2.lspkg/A bit of fun.js
+      - Follow Curved Path 2.lspkg/Follow Curved Path.lsc
+      - Follow Curved Path 2.lspkg/MF_Torus.ss_graph
+      - Follow Curved Path 2.lspkg/MI_Torus.mat
+      - Follow Curved Path 2.lspkg/Torus.mesh
+      - Follow Curved Path 2.lspkg/TweenManager
+      - Follow Curved Path 2.lspkg/TweenManager/Tween
+      - Follow Curved Path 2.lspkg/TweenManager/Tween/Tween.lsc
+      - Follow Curved Path 2.lspkg/TweenManager/Tween/TweenManager.lsc
+      - Follow Curved Path 2.lspkg/TweenManager/Tween/TweenTypes
+      - Follow Curved Path 2.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc
+      - "Follow Curved Path 2.lspkg/[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE.prefab"
+      - Follow Curved Path 2.lspkg/package.native
+      - Follow Curved Path.lspkg
+      - Follow Curved Path.lspkg/A bit of fun.js
+      - Follow Curved Path.lspkg/Follow Curved Path.lsc
+      - Follow Curved Path.lspkg/MF_Torus.ss_graph
+      - Follow Curved Path.lspkg/MI_Torus.mat
+      - Follow Curved Path.lspkg/Torus.mesh
+      - Follow Curved Path.lspkg/TweenManager
+      - Follow Curved Path.lspkg/TweenManager/Tween
+      - Follow Curved Path.lspkg/TweenManager/Tween/Tween.lsc
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenManager.lsc
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc
+      - "Follow Curved Path.lspkg/[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE.prefab"
+      - Follow Curved Path.lspkg/package.native
       - Move Along Path.lspkg
-      - Move Along Path.lspkg/Fonts
-      - Move Along Path.lspkg/Fonts/fredoka_one_regular.ttf
-      - Move Along Path.lspkg/Materials
       - Move Along Path.lspkg/Materials/UberDiffuse.mat
-      - Move Along Path.lspkg/Meshes
-      - Move Along Path.lspkg/Meshes/Box.mesh
-      - Move Along Path.lspkg/Meshes/Sphere.mesh
       - Move Along Path.lspkg/MoveAlongPath__PLACE_IN_SCENE.prefab
-      - Move Along Path.lspkg/Scripts
-      - Move Along Path.lspkg/Scripts/MoveAlongPath.js
-      - Move Along Path.lspkg/Shaders
-      - Move Along Path.lspkg/Shaders/UberDiffuse1.ss_graph
-      - Move Along Path.lspkg/Textures
-      - Move Along Path.lspkg/Textures/Base.png
-      - Move Along Path.lspkg/Textures/Normal.png
       - Move Along Path.lspkg/package.native
-      - Normal.png
-      - PBR.mat
+      - Render Target.renderTarget
+      - Scene.scene
+      - SpectaclesInteractionKit.lspkg
       - SpectaclesInteractionKit.lspkg/Assets
       - SpectaclesInteractionKit.lspkg/Assets/Audio
       - SpectaclesInteractionKit.lspkg/Assets/Audio/HoverAudioTrack.wav
@@ -511,5 +479,158 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/VersionNumber.ts
       - SpectaclesInteractionKit.lspkg/package.native
       - SpectaclesInteractionKit.lspkg/tsconfig.json
+      - SpectaclesUIKit.lspkg/Audio
+      - SpectaclesUIKit.lspkg/Audio/HoverAudioTrack.wav
+      - SpectaclesUIKit.lspkg/Audio/SliderProgressionAudioTrack.wav
+      - SpectaclesUIKit.lspkg/Audio/TriggerEndAudioTrack.wav
+      - SpectaclesUIKit.lspkg/Audio/TriggerStartAudioTrack.wav
+      - SpectaclesUIKit.lspkg/Materials
+      - SpectaclesUIKit.lspkg/Materials/BaseRoundedRectangle.mat
+      - SpectaclesUIKit.lspkg/Materials/BaseRoundedRectangle.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/CapsuleSphere.mat
+      - SpectaclesUIKit.lspkg/Materials/CapsuleSphere.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/CapsuleSphereDarkGlass.mat
+      - SpectaclesUIKit.lspkg/Materials/CapsuleSphereDarkGlass.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/CapsuleSphereTextField.mat
+      - SpectaclesUIKit.lspkg/Materials/CapsuleSphereTextField.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/ConfirmationSlider.mat
+      - SpectaclesUIKit.lspkg/Materials/ConfirmationSlider.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/DefaultButton.mat
+      - SpectaclesUIKit.lspkg/Materials/DefaultButton.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/DefaultCapsule.mat
+      - SpectaclesUIKit.lspkg/Materials/DefaultCapsuleShader.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/DefaultRadioButtonCheck.mat
+      - SpectaclesUIKit.lspkg/Materials/DefaultSphere.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/DefaultSphereMat.mat
+      - SpectaclesUIKit.lspkg/Materials/DefaultSphereSimple.mat
+      - SpectaclesUIKit.lspkg/Materials/DefaultSphereSimpleShader.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/DefaultSwitch.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/DefaultSwitchBackground.mat
+      - SpectaclesUIKit.lspkg/Materials/DefaultSwitchKnob.mat
+      - SpectaclesUIKit.lspkg/Materials/DefaultSwitchKnob.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/FragRoundedRectangle.mat
+      - SpectaclesUIKit.lspkg/Materials/FragRoundedRectangle.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/Frame.mat
+      - SpectaclesUIKit.lspkg/Materials/Frame.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/Image.mat
+      - SpectaclesUIKit.lspkg/Materials/ImageShader.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/RoundedRectangleStroke.mat
+      - SpectaclesUIKit.lspkg/Materials/RoundedRectangleStrokeShader.ss_graph
+      - SpectaclesUIKit.lspkg/Materials/ScrollWindowFadeMask.mat
+      - SpectaclesUIKit.lspkg/Materials/ScrollWindowFadeMaskShader.ss_graph
+      - SpectaclesUIKit.lspkg/Meshes
+      - SpectaclesUIKit.lspkg/Meshes/CapsuleSphere.mesh
+      - SpectaclesUIKit.lspkg/Meshes/DefaultButton.mesh
+      - SpectaclesUIKit.lspkg/Meshes/DefaultCapsule.mesh
+      - SpectaclesUIKit.lspkg/Meshes/DefaultSphere.mesh
+      - SpectaclesUIKit.lspkg/Meshes/DefaultSwitchBackground.mesh
+      - SpectaclesUIKit.lspkg/Meshes/DefaultSwitchKnob.mesh
+      - SpectaclesUIKit.lspkg/Meshes/StretchableCircle.mesh
+      - SpectaclesUIKit.lspkg/Meshes/Unit Plane.mesh
+      - SpectaclesUIKit.lspkg/Prefabs
+      - SpectaclesUIKit.lspkg/Prefabs/DropShadow.prefab
+      - SpectaclesUIKit.lspkg/Prefabs/ExampleInterface.prefab
+      - SpectaclesUIKit.lspkg/Prefabs/FrameButton.prefab
+      - SpectaclesUIKit.lspkg/Prefabs/ImageButton.prefab
+      - SpectaclesUIKit.lspkg/Prefabs/LabelledButton.prefab
+      - SpectaclesUIKit.lspkg/Prefabs/LabelledToggle.prefab
+      - SpectaclesUIKit.lspkg/README.md
+      - SpectaclesUIKit.lspkg/Scripts
+      - SpectaclesUIKit.lspkg/Scripts/BackPlate.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components
+      - SpectaclesUIKit.lspkg/Scripts/Components/Button
+      - SpectaclesUIKit.lspkg/Scripts/Components/Button/BaseButton.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Button/CapsuleButton.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Button/RectangleButton.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Button/RoundButton.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Element.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Frame
+      - SpectaclesUIKit.lspkg/Scripts/Components/Frame/Frame.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Frame/modules
+      - SpectaclesUIKit.lspkg/Scripts/Components/Frame/modules/ButtonHandler.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Frame/modules/CursorHandler.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Frame/modules/FrameButton.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Frame/modules/FrameInputHandler.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Frame/modules/HoverBehavior.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Frame/modules/SmoothFollow.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Frame/modules/SnappingHandler.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/GridLayout
+      - SpectaclesUIKit.lspkg/Scripts/Components/GridLayout/GridLayout.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/ScrollWindow
+      - SpectaclesUIKit.lspkg/Scripts/Components/ScrollWindow/ScrollWindow.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Slider
+      - SpectaclesUIKit.lspkg/Scripts/Components/Slider/ConfirmationSlider.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Slider/Slider.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Switch
+      - SpectaclesUIKit.lspkg/Scripts/Components/Switch/Switch.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/TextInputField
+      - SpectaclesUIKit.lspkg/Scripts/Components/TextInputField/TextInputField.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/TextInputField/TextInputFieldManager.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Toggle
+      - SpectaclesUIKit.lspkg/Scripts/Components/Toggle/BaseToggleGroup.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Toggle/SwitchToggleGroup.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Toggle/ToggleGroup.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/Toggle/Toggleable.ts
+      - SpectaclesUIKit.lspkg/Scripts/Components/VisualElement.ts
+      - SpectaclesUIKit.lspkg/Scripts/DropShadow.ts
+      - SpectaclesUIKit.lspkg/Scripts/Example
+      - SpectaclesUIKit.lspkg/Scripts/Example/Capsule3D
+      - SpectaclesUIKit.lspkg/Scripts/Example/Capsule3D/Capsule3DButton.ts
+      - SpectaclesUIKit.lspkg/Scripts/Example/Capsule3D/Visual
+      - SpectaclesUIKit.lspkg/Scripts/Example/Capsule3D/Visual/Capsule3D.ts
+      - SpectaclesUIKit.lspkg/Scripts/Example/Capsule3D/Visual/Capsule3DVisual.ts
+      - SpectaclesUIKit.lspkg/Scripts/Example/Sphere
+      - SpectaclesUIKit.lspkg/Scripts/Example/Sphere/SphereButton.ts
+      - SpectaclesUIKit.lspkg/Scripts/Example/Sphere/Visual
+      - SpectaclesUIKit.lspkg/Scripts/Example/Sphere/Visual/Sphere.ts
+      - SpectaclesUIKit.lspkg/Scripts/Example/Sphere/Visual/SphereVisual.ts
+      - SpectaclesUIKit.lspkg/Scripts/ScrollBar.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Colors.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Gradients
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Gradients/GhostGradients.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Gradients/PrimaryGradients.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Gradients/PrimaryNeutralGradients.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Gradients/SecondaryGradients.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Gradients/SpecialGradients.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/SnapOS2.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Styles
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Styles/CapsuleButtonParameters.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Styles/RectangleButtonParameters.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/SnapOS-2.0/Styles/RoundButtonParameters.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/Style.ts
+      - SpectaclesUIKit.lspkg/Scripts/Themes/Theme.ts
+      - SpectaclesUIKit.lspkg/Scripts/Tooltip.ts
+      - SpectaclesUIKit.lspkg/Scripts/Utility
+      - SpectaclesUIKit.lspkg/Scripts/Utility/DebugCamera
+      - SpectaclesUIKit.lspkg/Scripts/Utility/DebugCamera/DebugCamera.ts
+      - SpectaclesUIKit.lspkg/Scripts/Utility/DebugCamera/Unit Plane.mesh
+      - SpectaclesUIKit.lspkg/Scripts/Utility/DebugCamera/ViewingPlane.mat
+      - SpectaclesUIKit.lspkg/Scripts/Utility/DebugCamera/ViewingPlane.ss_graph
+      - SpectaclesUIKit.lspkg/Scripts/Utility/Frustum.ts
+      - SpectaclesUIKit.lspkg/Scripts/Utility/InteractableStateMachine.ts
+      - SpectaclesUIKit.lspkg/Scripts/Utility/ScaleResetter.ts
+      - SpectaclesUIKit.lspkg/Scripts/Utility/SceneUtilities.ts
+      - SpectaclesUIKit.lspkg/Scripts/Utility/UIKitUtilities.ts
+      - SpectaclesUIKit.lspkg/Scripts/Visuals
+      - SpectaclesUIKit.lspkg/Scripts/Visuals/RoundedRectangle
+      - SpectaclesUIKit.lspkg/Scripts/Visuals/RoundedRectangle/RoundedRectangle.ts
+      - SpectaclesUIKit.lspkg/Scripts/Visuals/RoundedRectangle/RoundedRectangleVisual.ts
+      - SpectaclesUIKit.lspkg/Scripts/Visuals/Visual.ts
+      - SpectaclesUIKit.lspkg/Textures
+      - SpectaclesUIKit.lspkg/Textures/DefaultSphere_reflection_map.jpg
+      - SpectaclesUIKit.lspkg/Textures/ReflectionCubeMap.png
+      - SpectaclesUIKit.lspkg/Textures/circle-distance-lut.png
+      - SpectaclesUIKit.lspkg/Textures/circle-lut-128.png
+      - SpectaclesUIKit.lspkg/Textures/close-icon-1.png
+      - SpectaclesUIKit.lspkg/Textures/eye-icon.png
+      - SpectaclesUIKit.lspkg/Textures/eye-off-icon.png
+      - SpectaclesUIKit.lspkg/Textures/follow-black.png
+      - SpectaclesUIKit.lspkg/Textures/follow-white.png
+      - SpectaclesUIKit.lspkg/Textures/test-image.jpg
+      - SpectaclesUIKit.lspkg/package.native
+      - SpectaclesUIKit.lspkg/package_dependencies.json
+      - UI Panel.lsc
       - pbr.ss_graph
   options: 4
