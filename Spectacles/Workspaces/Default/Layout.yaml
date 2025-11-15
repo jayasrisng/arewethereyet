@@ -60,9 +60,19 @@ dock:
         type: section
         current: 0
     sizes:
+<<<<<<< Updated upstream
       - 357
       - 590
       - 361
       - 321
+=======
+      - 318
+      - 527
+      - 363
+      - 245
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     type: splitter
     orientation: horizontal
