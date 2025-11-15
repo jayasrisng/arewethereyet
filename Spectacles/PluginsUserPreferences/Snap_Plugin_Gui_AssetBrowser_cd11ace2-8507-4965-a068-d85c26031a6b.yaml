@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 508
+    size: 522
     values:
       - Base.png
       - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
@@ -68,6 +68,20 @@ CollapsedEntities:
       - Custom Location AR.lspkg/Textures/loading_ring.png
       - Custom Location AR.lspkg/package.native
       - Echopark.hdr
+      - Follow Curved Path.lspkg
+      - Follow Curved Path.lspkg/A bit of fun.js
+      - Follow Curved Path.lspkg/Follow Curved Path.lsc
+      - Follow Curved Path.lspkg/MF_Torus.ss_graph
+      - Follow Curved Path.lspkg/MI_Torus.mat
+      - Follow Curved Path.lspkg/Torus.mesh
+      - Follow Curved Path.lspkg/TweenManager
+      - Follow Curved Path.lspkg/TweenManager/Tween
+      - Follow Curved Path.lspkg/TweenManager/Tween/Tween.lsc
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenManager.lsc
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes
+      - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc
+      - "Follow Curved Path.lspkg/[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE.prefab"
+      - Follow Curved Path.lspkg/package.native
       - MaterialParams.png
       - Move Along Path.lspkg
       - Move Along Path.lspkg/Fonts

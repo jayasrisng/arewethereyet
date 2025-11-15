@@ -1,11 +1,12 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 34
+    size: 46
     values:
       - 0005641c-028d-459a-0000-000000014b4d
       - 06a09cd5-5c55-472e-b4d6-f8ab735b8bec
       - 0823fdf7-ac2c-4a37-9fcf-ec1c08cf5d6e
+      - 0a01c9b7-c9a1-40f4-aaf1-e11c56cd429e
       - 0dd06c4f-4d3b-485f-aeb0-c8ff0b3d4372
       - 0eff403a-b770-4867-924e-fd63ae383180
       - 1155c086-396b-426e-8dc0-44f909a79a49
@@ -18,24 +19,35 @@ CollapsedEntities:
       - 4deb8c1b-f4af-402e-9038-8379f8f9fb88
       - 5810b576-cda6-4322-a4b1-cc0762f6e808
       - 68bde01f-0d6f-46ea-80e2-a50097c2cd85
+      - 7ab1aeda-528e-466e-a43d-6d65ce7e0752
       - 7b9dfe62-758d-4b65-9bbc-c0398a87bf61
       - 7ff7fec6-f7e3-42a9-9b12-1f65e1b0cad7
       - 810b04b1-882c-4f76-b97b-96b48555cd84
+      - 89f5a735-53b0-45ca-bf0c-453b78804a6b
       - 8c8016af-dc10-4489-9963-5795d56c6ffc
+      - 92dca1ff-b4fc-4234-85db-3757d8cef3a6
+      - 96a46cfc-e3b3-4fd9-9899-8c4c4bb3bc9d
+      - 976df113-8f1a-43d9-a649-eec4913be040
+      - 98bd8a1c-4681-4de4-836e-5836970543c6
+      - 9d3fd4dd-9d3a-4301-8190-2e05e538ad8c
       - 9f627e6f-4bbc-4ad6-8082-96410c93a929
       - a2c66d7e-a03d-44de-baf3-63363fe8d44c
+      - aa4befad-c097-4d36-b707-bf0cbfb1fb84
       - acd1da61-5931-4dbf-b80b-355671f55102
       - b0b110c9-d63b-422d-b775-487ff2690a52
+      - b203ee48-84af-4957-be5f-4a30236e61e0
       - b9918f28-529b-44b3-94e2-76bdedf9f10d
-      - c6ca1b6d-e4c6-48ac-b1fe-88bff0a77c21
+      - c3fd0991-a791-420f-a06c-22e514e607d5
       - c8086de8-ca74-4eba-8d0f-33a74b0bd996
       - c9038ecd-ff4f-4477-a3c7-64632f424810
       - ceca4ce9-ca98-4811-a449-45e56e5a741d
       - d39e2eac-7ea7-4b01-96e3-d60f8acd2937
       - d91b41b0-1d10-405e-97c9-e730e94bb9e6
       - db9107f4-4b65-47b6-a2b4-3454f4a7d362
-      - df5c80fb-1e97-4b75-9126-5ed78c06bbc4
+      - e1a7ab72-32ff-4729-9b0c-af927b3cc140
       - e69bef0e-7cb4-462d-abd2-92d3256476ff
+      - f00d1f10-0bf5-4c98-a33e-2aab3b1a434d
+      - f2eaf659-722f-4df6-93cf-73efdd6a7013
       - fe73d925-724d-429f-9dc4-728bc602a6c3
   options: 4
 PinnedEntities:
