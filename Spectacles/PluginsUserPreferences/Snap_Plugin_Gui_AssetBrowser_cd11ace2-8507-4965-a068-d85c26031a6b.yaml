@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 630
+    size: 508
     values:
       - Custom Location AR.lspkg
       - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
@@ -22,35 +22,8 @@ CollapsedEntities:
       - Custom Location AR.lspkg/Textures/Segmentation Textures/Body Segmentation.segmentationTexture
       - Custom Location AR.lspkg/Textures/Segmentation Textures/Portrait Background Segmentation.segmentationTexture
       - Custom Location AR.lspkg/package.native
-      - Device Camera Texture.deviceCameraTexture
-      - Follow Curved Path 2.lspkg
-      - Follow Curved Path 2.lspkg/A bit of fun.js
-      - Follow Curved Path 2.lspkg/Follow Curved Path.lsc
-      - Follow Curved Path 2.lspkg/MF_Torus.ss_graph
-      - Follow Curved Path 2.lspkg/MI_Torus.mat
-      - Follow Curved Path 2.lspkg/Torus.mesh
-      - Follow Curved Path 2.lspkg/TweenManager
-      - Follow Curved Path 2.lspkg/TweenManager/Tween
-      - Follow Curved Path 2.lspkg/TweenManager/Tween/Tween.lsc
-      - Follow Curved Path 2.lspkg/TweenManager/Tween/TweenManager.lsc
-      - Follow Curved Path 2.lspkg/TweenManager/Tween/TweenTypes
-      - Follow Curved Path 2.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc
-      - "Follow Curved Path 2.lspkg/[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE.prefab"
-      - Follow Curved Path 2.lspkg/package.native
-      - Follow Curved Path.lspkg
-      - Follow Curved Path.lspkg/A bit of fun.js
-      - Follow Curved Path.lspkg/Follow Curved Path.lsc
-      - Follow Curved Path.lspkg/MF_Torus.ss_graph
-      - Follow Curved Path.lspkg/MI_Torus.mat
-      - Follow Curved Path.lspkg/Torus.mesh
-      - Follow Curved Path.lspkg/TweenManager
-      - Follow Curved Path.lspkg/TweenManager/Tween
-      - Follow Curved Path.lspkg/TweenManager/Tween/Tween.lsc
-      - Follow Curved Path.lspkg/TweenManager/Tween/TweenManager.lsc
-      - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes
-      - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc
-      - "Follow Curved Path.lspkg/[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE.prefab"
-      - Follow Curved Path.lspkg/package.native
+      - Echopark.hdr
+      - MaterialParams.png
       - Move Along Path.lspkg
       - Move Along Path.lspkg/Materials/UberDiffuse.mat
       - Move Along Path.lspkg/MoveAlongPath__PLACE_IN_SCENE.prefab
