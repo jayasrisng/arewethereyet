@@ -13,10 +13,6 @@
         "./Packages/*",
         "./Cache/TypeScript/Src/Packages/*"
       ],
-      "Custom Location AR.lspkg/*": [
-        "./Assets/Custom Location AR.lspkg/*",
-        "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/*"
-      ],
       "Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.lsc/*": [
         "./Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.lsc/*",
         "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.lsc/*"
@@ -50,11 +46,10 @@
     "./Assets/**/*.ts",
     "./Packages/**/*.ts",
     "./Cache/TypeScript/Src/Packages/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenAlpha.lsc/**/*.ts",
     "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.lsc/**/*.ts",
     "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/Tween.lsc/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenScreenTransform.lsc/**/*.ts",
     "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenManager.lsc/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenAlpha.lsc/**/*.ts"
+    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenScreenTransform.lsc/**/*.ts"
   ]
 }

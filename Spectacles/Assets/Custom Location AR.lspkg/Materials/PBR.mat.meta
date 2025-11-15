@@ -6,7 +6,7 @@
   PackageType: NotAPackage
   LegacyPackagePolicy: ~
   ExtraData:
-    AssetLibraryId: 7eEDXkWHbYfZ6BCIra3PfW
+    {}
   AssetDataMap:
     {}
   DependentFiles:
