@@ -1,12 +1,13 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 522
+    size: 884
     values:
       - Base.png
       - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
       - "Custom Location AR.lspkg/Location Asset [REPLACE_LOCATION_ID].location"
       - Custom Location AR.lspkg/Materials
+      - Custom Location AR.lspkg/Materials/Hint Materials
       - Custom Location AR.lspkg/Materials/Hint Materials/Go To Animation.mat
       - Custom Location AR.lspkg/Materials/Hint Materials/Loading Ring.mat
       - Custom Location AR.lspkg/Materials/Hint Materials/Location Icon 2.mat
@@ -15,36 +16,169 @@ CollapsedEntities:
       - Custom Location AR.lspkg/Materials/PBR.mat
       - Custom Location AR.lspkg/Materials/Segmentation.mat
       - Custom Location AR.lspkg/Materials/Snapcode.mat
+      - Custom Location AR.lspkg/Meshes/Box.mesh
+      - Custom Location AR.lspkg/Meshes/Bunny_v001.fbx
+      - Custom Location AR.lspkg/Meshes/Bunny_v001.fbx/Animations
+      - Custom Location AR.lspkg/Meshes/Bunny_v001.fbx/Animations/BaseLayer
+      - Custom Location AR.lspkg/Meshes/Bunny_v001.fbx/Bunny_v001
+      - Custom Location AR.lspkg/Meshes/Bunny_v001.fbx/Meshes/Mesh0
+      - Custom Location AR.lspkg/Meshes/Bunny_v002/Bunny_v002.fbx/Animations
+      - Custom Location AR.lspkg/Meshes/Bunny_v002/Bunny_v002.fbx/Animations/BaseLayer
+      - Custom Location AR.lspkg/Meshes/Bunny_v002/Bunny_v002.fbx/Bunny_v002
+      - Custom Location AR.lspkg/Meshes/Bunny_v002/Bunny_v002.fbx/Meshes
+      - Custom Location AR.lspkg/Meshes/Bunny_v002/Bunny_v002.fbx/Meshes/Mesh0
+      - Custom Location AR.lspkg/Meshes/Egg_v001
+      - Custom Location AR.lspkg/Meshes/Egg_v001/Egg_v001.fbx
+      - Custom Location AR.lspkg/Meshes/Egg_v001/Egg_v001.fbx/Animations
+      - Custom Location AR.lspkg/Meshes/Egg_v001/Egg_v001.fbx/Animations/BaseLayer
+      - Custom Location AR.lspkg/Meshes/Egg_v001/Egg_v001.fbx/Egg_v001
+      - Custom Location AR.lspkg/Meshes/Egg_v001/Egg_v001.fbx/Meshes
+      - Custom Location AR.lspkg/Meshes/Egg_v001/Egg_v001.fbx/Meshes/Mesh0
       - Custom Location AR.lspkg/Meshes/Location Mesh.location_mesh
-      - Custom Location AR.lspkg/Scripts
+      - Custom Location AR.lspkg/Meshes/New Folder
+      - Custom Location AR.lspkg/Meshes/New Folder 2
+      - Custom Location AR.lspkg/Meshes/New Folder 3
+      - Custom Location AR.lspkg/Meshes/New Folder 4
+      - Custom Location AR.lspkg/Meshes/New Folder 5
+      - Custom Location AR.lspkg/Scripts/CustomLocationController.js
+      - Custom Location AR.lspkg/Scripts/FrontCameraMirror.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.lsc
+      - Custom Location AR.lspkg/Scripts/HelperScripts/ParentToCamera.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/SetRenderOrder.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/SpectaclesDisable.ts
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/Tween.lsc
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenManager.lsc
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenAlpha.lsc
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenScreenTransform.lsc
+      - Custom Location AR.lspkg/Scripts/Information Scripts
+      - Custom Location AR.lspkg/Scripts/Information Scripts/CameraSetUp.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts/LocationAssetInformation.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts/MarkerGuide.js
+      - Custom Location AR.lspkg/Scripts/Status
+      - Custom Location AR.lspkg/Scripts/Status/StatusController.js
       - Custom Location AR.lspkg/Shaders
+      - Custom Location AR.lspkg/Shaders/LocationMesh.ss_graph
+      - Custom Location AR.lspkg/Shaders/Segmentation.ss_graph
+      - Custom Location AR.lspkg/Shaders/UI.ss_graph
+      - Custom Location AR.lspkg/Shaders/flat.ss_graph
+      - Custom Location AR.lspkg/Shaders/pbr.ss_graph
+      - Custom Location AR.lspkg/Textures
+      - Custom Location AR.lspkg/Textures/Base.png
       - Custom Location AR.lspkg/Textures/Device Camera Texture.deviceCameraTexture
+      - Custom Location AR.lspkg/Textures/Egg_v001
+      - Custom Location AR.lspkg/Textures/Egg_v001/Egg_v001_Egg_BaseColor.png
+      - Custom Location AR.lspkg/Textures/Egg_v001/Egg_v001_Egg_Normal.png
+      - Custom Location AR.lspkg/Textures/Egg_v001/Egg_v001_Egg_Roughness.png
+      - Custom Location AR.lspkg/Textures/Hint Textures
+      - Custom Location AR.lspkg/Textures/Hint Textures/failed_texture.png
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/atlas_0.pvr
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/go_to_anim
+      - "Custom Location AR.lspkg/Textures/Hint Textures/location_icon [REPLACE_ME].png"
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/atlas_0.pvr
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/point_at_anim
+      - Custom Location AR.lspkg/Textures/MaterialParams.png
+      - Custom Location AR.lspkg/Textures/Normal.png
+      - Custom Location AR.lspkg/Textures/Segmentation Textures
       - Custom Location AR.lspkg/Textures/Segmentation Textures/Body Segmentation.segmentationTexture
       - Custom Location AR.lspkg/Textures/Segmentation Textures/Portrait Background Segmentation.segmentationTexture
+      - Custom Location AR.lspkg/Textures/custom-landmarker-scan-1-a783491b4024b59080a5d840915eec86.png
+      - Custom Location AR.lspkg/Textures/loading_ring.png
       - Custom Location AR.lspkg/package.native
+      - Device Camera Texture.deviceCameraTexture
       - Echopark.hdr
-      - Follow Curved Path.lspkg
+      - Echopark.hdr/Diffuse
+      - Echopark.hdr/Specular
+      - EggHideOnPinch.ts
+      - Egg_v001.mat
+      - Follow Curved Path 2.lspkg
+      - Follow Curved Path 2.lspkg/A bit of fun.js
+      - Follow Curved Path 2.lspkg/Follow Curved Path.lsc
+      - Follow Curved Path 2.lspkg/MF_Torus.ss_graph
+      - Follow Curved Path 2.lspkg/MI_Torus.mat
+      - Follow Curved Path 2.lspkg/Torus.mesh
+      - Follow Curved Path 2.lspkg/TweenManager
+      - Follow Curved Path 2.lspkg/TweenManager/Tween
+      - Follow Curved Path 2.lspkg/TweenManager/Tween/Tween.lsc
+      - Follow Curved Path 2.lspkg/TweenManager/Tween/TweenManager.lsc
+      - Follow Curved Path 2.lspkg/TweenManager/Tween/TweenTypes
+      - Follow Curved Path 2.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc
+      - "Follow Curved Path 2.lspkg/[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE.prefab"
+      - Follow Curved Path 2.lspkg/package.native
+      - Follow Curved Path 3.lspkg
+      - Follow Curved Path 3.lspkg/A bit of fun.js
+      - Follow Curved Path 3.lspkg/Follow Curved Path.lsc
+      - Follow Curved Path 3.lspkg/MF_Torus.ss_graph
+      - Follow Curved Path 3.lspkg/MI_Torus.mat
+      - Follow Curved Path 3.lspkg/Torus.mesh
+      - Follow Curved Path 3.lspkg/TweenManager
+      - Follow Curved Path 3.lspkg/TweenManager/Tween
+      - Follow Curved Path 3.lspkg/TweenManager/Tween/Tween.lsc
+      - Follow Curved Path 3.lspkg/TweenManager/Tween/TweenManager.lsc
+      - Follow Curved Path 3.lspkg/TweenManager/Tween/TweenTypes
+      - Follow Curved Path 3.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc
+      - "Follow Curved Path 3.lspkg/[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE.prefab"
+      - Follow Curved Path 3.lspkg/package.native
       - Follow Curved Path.lspkg/A bit of fun.js
       - Follow Curved Path.lspkg/Follow Curved Path.lsc
       - Follow Curved Path.lspkg/MF_Torus.ss_graph
       - Follow Curved Path.lspkg/MI_Torus.mat
       - Follow Curved Path.lspkg/Torus.mesh
-      - Follow Curved Path.lspkg/TweenManager
-      - Follow Curved Path.lspkg/TweenManager/Tween
       - Follow Curved Path.lspkg/TweenManager/Tween/Tween.lsc
       - Follow Curved Path.lspkg/TweenManager/Tween/TweenManager.lsc
       - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes
       - Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc
       - "Follow Curved Path.lspkg/[PLACE THIS TO THE SCENE]__PLACE_IN_SCENE.prefab"
       - Follow Curved Path.lspkg/package.native
+      - Hair Curly Blue.mat
       - MaterialParams.png
+      - Move Along Path 2.lspkg
+      - Move Along Path 2.lspkg/Fonts
+      - Move Along Path 2.lspkg/Fonts/fredoka_one_regular.ttf
+      - Move Along Path 2.lspkg/Materials
+      - Move Along Path 2.lspkg/Materials/UberDiffuse.mat
+      - Move Along Path 2.lspkg/Meshes
+      - Move Along Path 2.lspkg/Meshes/Box.mesh
+      - Move Along Path 2.lspkg/Meshes/Sphere.mesh
+      - Move Along Path 2.lspkg/MoveAlongPath__PLACE_IN_SCENE.prefab
+      - Move Along Path 2.lspkg/Scripts
+      - Move Along Path 2.lspkg/Scripts/MoveAlongPath.js
+      - Move Along Path 2.lspkg/Shaders
+      - Move Along Path 2.lspkg/Shaders/UberDiffuse1.ss_graph
+      - Move Along Path 2.lspkg/Textures
+      - Move Along Path 2.lspkg/Textures/Base.png
+      - Move Along Path 2.lspkg/Textures/Normal.png
+      - Move Along Path 2.lspkg/package.native
       - Move Along Path.lspkg
+      - Move Along Path.lspkg/Fonts
+      - Move Along Path.lspkg/Fonts/fredoka_one_regular.ttf
+      - Move Along Path.lspkg/Materials
       - Move Along Path.lspkg/Materials/UberDiffuse.mat
+      - Move Along Path.lspkg/Meshes
+      - Move Along Path.lspkg/Meshes/Box.mesh
+      - Move Along Path.lspkg/Meshes/Sphere.mesh
       - Move Along Path.lspkg/MoveAlongPath__PLACE_IN_SCENE.prefab
+      - Move Along Path.lspkg/Scripts
+      - Move Along Path.lspkg/Scripts/MoveAlongPath.js
+      - Move Along Path.lspkg/Shaders
+      - Move Along Path.lspkg/Shaders/UberDiffuse1.ss_graph
+      - Move Along Path.lspkg/Textures
+      - Move Along Path.lspkg/Textures/Base.png
+      - Move Along Path.lspkg/Textures/Normal.png
       - Move Along Path.lspkg/package.native
       - Normal.png
+      - PBR 2.mat
+      - PBR 3.mat
       - PBR.mat
+      - Render Target.renderTarget
       - Scene.scene
+      - ShowUIOnPinch.ts
       - SpectaclesInteractionKit.lspkg/Assets
       - SpectaclesInteractionKit.lspkg/Assets/Audio
       - SpectaclesInteractionKit.lspkg/Assets/Audio/HoverAudioTrack.wav
@@ -203,20 +337,13 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/Assets/Textures/SIKContainerExampleImage.jpg
       - SpectaclesInteractionKit.lspkg/Assets/Textures/SIKLogo.png
       - SpectaclesInteractionKit.lspkg/Assets/Textures/ScrollBarRectangle.png
-      - SpectaclesInteractionKit.lspkg/Components
-      - SpectaclesInteractionKit.lspkg/Components/Helpers
       - SpectaclesInteractionKit.lspkg/Components/Helpers/ButtonFeedback.ts
       - SpectaclesInteractionKit.lspkg/Components/Helpers/CapsuleMeshCustomizer.ts
-      - SpectaclesInteractionKit.lspkg/Components/Helpers/InteractableAudioFeedback.ts
-      - SpectaclesInteractionKit.lspkg/Components/Helpers/InteractableColorFeedback.ts
-      - SpectaclesInteractionKit.lspkg/Components/Helpers/InteractableOutlineFeedback.ts
-      - SpectaclesInteractionKit.lspkg/Components/Helpers/InteractableSquishFeedback.ts
       - SpectaclesInteractionKit.lspkg/Components/Helpers/ProximitySensor.ts
       - SpectaclesInteractionKit.lspkg/Components/Helpers/ScreenTransformAdapter.ts
       - SpectaclesInteractionKit.lspkg/Components/Helpers/ScrollBarFeedback.ts
       - SpectaclesInteractionKit.lspkg/Components/Helpers/SliderFeedback.ts
       - SpectaclesInteractionKit.lspkg/Components/Helpers/ToggleFeedback.ts
-      - SpectaclesInteractionKit.lspkg/Components/Interaction
       - SpectaclesInteractionKit.lspkg/Components/Interaction/Billboard
       - SpectaclesInteractionKit.lspkg/Components/Interaction/Billboard/Billboard.ts
       - SpectaclesInteractionKit.lspkg/Components/Interaction/Billboard/BillboardController.ts
@@ -230,13 +357,6 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/Components/Interaction/Headlock/HeadlockController.ts
       - SpectaclesInteractionKit.lspkg/Components/Interaction/Headlock/HeadlockRotationCalculator.ts
       - SpectaclesInteractionKit.lspkg/Components/Interaction/Headlock/HeadlockTranslationCalculator.ts
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/Interactable
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/Interactable/Interactable.ts
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractableManipulation
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractableManipulation/InteractableManipulation.ts
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractionPlane
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractionPlane/InteractionPlane.ts
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/CircleVisual.ts
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/CircleVisualV2.ts
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/Cursor.mat
@@ -244,7 +364,6 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/CursorMat.ss_graph
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/CursorViewModel.ts
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/CursorViewModelV2.ts
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/InteractorCursor.ts
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/ManipulateLineMat.ss_graph
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/ManipulateLineMaterial.mat
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/Plane.mesh
@@ -252,13 +371,6 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/scale-tl.png
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/scale-tr.png
       - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor/translate.png
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorLineVisual
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorLineVisual/InteractorLineMat.ss_graph
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorLineVisual/InteractorLineMaterial.mat
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorLineVisual/InteractorLineRenderer.ts
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorLineVisual/InteractorLineVisual.ts
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorRayVisual
-      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorRayVisual/InteractorRayVisual.ts
       - SpectaclesInteractionKit.lspkg/Components/UI
       - SpectaclesInteractionKit.lspkg/Components/UI/ContainerFrame
       - SpectaclesInteractionKit.lspkg/Components/UI/ContainerFrame/ContainerFrame.ts
@@ -323,37 +435,24 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/Components/UI/Slider/Slider.ts
       - SpectaclesInteractionKit.lspkg/Components/UI/ToggleButton
       - SpectaclesInteractionKit.lspkg/Components/UI/ToggleButton/ToggleButton.ts
-      - SpectaclesInteractionKit.lspkg/Core
       - SpectaclesInteractionKit.lspkg/Core/ConfigurationValidator
       - SpectaclesInteractionKit.lspkg/Core/ConfigurationValidator/ConfigurationValidator.ts
-      - SpectaclesInteractionKit.lspkg/Core/HandInteractor
-      - SpectaclesInteractionKit.lspkg/Core/HandInteractor/HandInteractor.ts
-      - SpectaclesInteractionKit.lspkg/Core/InteractionManager
       - SpectaclesInteractionKit.lspkg/Core/InteractionManager/EventDispatcher.ts
-      - SpectaclesInteractionKit.lspkg/Core/InteractionManager/InteractionManager.ts
-      - SpectaclesInteractionKit.lspkg/Core/Interactor
-      - SpectaclesInteractionKit.lspkg/Core/Interactor/BaseInteractor.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/ColliderTargetProvider.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/DirectTargetProvider.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/DragProvider.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/HandRayProvider.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/IndirectTargetProvider.ts
-      - SpectaclesInteractionKit.lspkg/Core/Interactor/Interactor.ts
-      - SpectaclesInteractionKit.lspkg/Core/Interactor/InteractorEvent.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/MobileRayProvider.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/MouseTargetProvider.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/PokeTargetProvider.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/RayProvider.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/TouchRayProvider.ts
-      - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms
       - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/AxisAngle.ts
-      - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/ContinousIrInteractionTransition.ts
-      - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/IrInteractionTransition.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/PinchJumpSuppressor.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/RaycastBase.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/RaycastProxy.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/RgbIrTransitionJumpSuppressor.ts
-      - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/SwitchIrInteractionTransition.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/TimeDataContainer.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/TimeScalarContainer.ts
       - SpectaclesInteractionKit.lspkg/Core/Interactor/raycastAlgorithms/TimedVec2Container.ts
@@ -361,20 +460,9 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/Core/LogLevelConfiguration
       - SpectaclesInteractionKit.lspkg/Core/LogLevelConfiguration/LogLevelConfiguration.ts
       - SpectaclesInteractionKit.lspkg/Core/LogLevelConfiguration/SIKLogLevelConfiguration.ts
-      - SpectaclesInteractionKit.lspkg/Core/MobileInteractor
-      - SpectaclesInteractionKit.lspkg/Core/MobileInteractor/MobileInteractor.ts
-      - SpectaclesInteractionKit.lspkg/Core/MouseInteractor
-      - SpectaclesInteractionKit.lspkg/Core/MouseInteractor/MouseInteractor.ts
-      - SpectaclesInteractionKit.lspkg/Core/SyncInteractionManager
-      - SpectaclesInteractionKit.lspkg/Core/SyncInteractionManager/SyncInteractionManager.ts
-      - SpectaclesInteractionKit.lspkg/Core/SyncInteractor
-      - SpectaclesInteractionKit.lspkg/Core/SyncInteractor/SyncInteractor.ts
       - SpectaclesInteractionKit.lspkg/Decorators
       - SpectaclesInteractionKit.lspkg/Decorators/Singleton.ts
-      - SpectaclesInteractionKit.lspkg/Prefabs
       - SpectaclesInteractionKit.lspkg/Prefabs/ScrollViewListItem.prefab
-      - SpectaclesInteractionKit.lspkg/Prefabs/SpectaclesInteractionKit.prefab
-      - SpectaclesInteractionKit.lspkg/Providers
       - SpectaclesInteractionKit.lspkg/Providers/CameraProvider
       - SpectaclesInteractionKit.lspkg/Providers/CameraProvider/ARCameraFinderProvider.ts
       - SpectaclesInteractionKit.lspkg/Providers/CameraProvider/BaseCameraFinderProvider.ts
@@ -410,8 +498,6 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/Providers/HandInputData/LeftHandAsset.handTracking3D
       - SpectaclesInteractionKit.lspkg/Providers/HandInputData/RightHandAsset.handTracking3D
       - SpectaclesInteractionKit.lspkg/Providers/HandInputData/TrackedHand.ts
-      - SpectaclesInteractionKit.lspkg/Providers/InteractionConfigurationProvider
-      - SpectaclesInteractionKit.lspkg/Providers/InteractionConfigurationProvider/InteractionConfigurationProvider.ts
       - SpectaclesInteractionKit.lspkg/Providers/InteractionConfigurationProvider/LogLevelProvider.ts
       - SpectaclesInteractionKit.lspkg/Providers/InteractionConfigurationProvider/SIKLogLevelProvider.ts
       - SpectaclesInteractionKit.lspkg/Providers/MobileInputData
@@ -466,6 +552,181 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/VersionNumber.ts
       - SpectaclesInteractionKit.lspkg/package.native
       - SpectaclesInteractionKit.lspkg/tsconfig.json
+      - SpectaclesInteractionKitExamples.lspkg
+      - SpectaclesInteractionKitExamples.lspkg/Examples
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons/ModernBodyTube_icon.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons/ModernFins_icon.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons/ModernNoseCone_icon.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons/SleekBodyTube_icon.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons/SleekFins_icon.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons/SleekNoseCone_icon.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons/SpaceAgeBodyTube_icon.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons/SpaceAgeFins_icon.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons/SpaceAgeNoseCone_icon.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Meteor.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Planet.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Planet_rings.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Platform.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_fire.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_glass.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_glass_satellite.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_grey.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_metal.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_metal_red.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_01.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_02.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_03.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_03_logo.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_white.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_white_logo.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects/SIK_Satellite_blue.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx/.hidden
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx/.hidden/Lightbake.001
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx/.hidden/white
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx/Bases
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx/Materials
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx/Materials/Lightbake.001
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes/Circular
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes/Cubic_01
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes/Hexagon_01
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Meteor
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Planet
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Planet1
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom1
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom2
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom3
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_middle
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_middle1
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_middle2
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_top
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_top1
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_02_bottom
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_02_middle
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_02_top
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom1
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom2
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom3
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom4
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_middle
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_top
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_top1
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_top2
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite1
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite2
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite3
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/SIK_Rockets
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts/Modern Body Tube.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts/Modern Fins.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts/Modern Nose Cone.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts/Sleek Body Tube.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts/Sleek Fins.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts/Sleek Nose Cone.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts/Space Age Body Tube.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts/Space Age Fins.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts/Space Age Nose Cone.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Body Tube Category.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Fins Category.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Modern Body Tube.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Modern Fins.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Modern Nose Cone.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Nose Cone Category.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Sleek Body Tube.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Sleek Fins.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Sleek Nose Cone.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Space Age Body Tube.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Space Age Fins.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Space Age Nose Cone.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/SFX
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/SFX/ui-rocket-ignition_c-1db_stereo4824.wav
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/SFX/ui-rocket-land-cutoff-c_-1dB_stereo4824.wav
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Scripts
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Scripts/ExhaustControls.ts
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Scripts/RocketConfigurator.ts
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Scripts/RocketGridContentCreator.ts
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Scripts/RocketLaunchControl.ts
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Scripts/RocketScrollViewItem.ts
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Shaders
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Shaders/Glass.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Shaders/Meteor.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Shaders/Planet.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Shaders/Planet_rings.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Shaders/Platform.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Shaders/Rocket.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/A-icon.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/B-icon.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/C-icon.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/SIK_Meteor_bc.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/SIK_Platforms_AO.jpg
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/SIK_Rockets_AO.jpg
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/SIK_Snap_logo.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/SIK_Space_logo_TEMP.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/ScrollViewThumbnails
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/body-tube_rocket-A.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/body-tube_rocket-B.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/body-tube_rocket-C.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/fins_rocket-A.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/fins_rocket-B.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/fins_rocket-C.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/nose-cone_rocket-A.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/nose-cone_rocket-B.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/nose-cone_rocket-C.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Clouds Landing
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Clouds Landing/Bones_clouds_ANIM_mat_landing.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Clouds Landing/Bones_clouds_material_landing_.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Clouds Landing/CloudsLanding.animationAsset
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Clouds Landing/line1.mesh
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Clouds Start
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Clouds Start/Bones_clouds_ANIM_mat_takeoff.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Clouds Start/Bones_clouds_material_start_.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Clouds Start/CloudsStart.animationAsset
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Clouds Start/line1.mesh
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Custom Mesh Emitter
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Custom Mesh Emitter/Custom Mesh Emitter.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Custom Mesh Emitter/Rocket_clouds_emit.vfxgraph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Custom Mesh Emitter/cl_goup.mesh
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Exhaust
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Exhaust/Fire.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Exhaust/Fire_ANIM_mat.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Exhaust/Glow_ANIM_mat.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Exhaust/Glow_MAt.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Exhaust/blendshapes1.mesh
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Exhaust/dots.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Exhaust/engine_exhaust.prefab
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Exhaust/glow_plane.mesh
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Radial Heat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Radial Heat/Noise00.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Radial Heat/Plane.mesh
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Radial Heat/RadialHeat_ANIM_mat.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Radial Heat/Radial_heat.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Rocket Animations
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Rocket Animations/Base Layer Rocket 1.animationAsset
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Rocket Animations/Base Layer Rocket 2.animationAsset
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Rocket Animations/Base Layer Rocket 3.animationAsset
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Rocket Sparks
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Rocket Sparks/Rocket_sparks.mesh
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Rocket Sparks/Top_Rocket_Trail.mat
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Rocket Sparks/Top_Rocket_Trail.ss_graph
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX/Rocket Sparks/stripe_noise 2.png
+      - SpectaclesInteractionKitExamples.lspkg/Examples/SIK Examples.prefab
+      - SpectaclesInteractionKitExamples.lspkg/package.native
+      - SpectaclesInteractionKitExamples.lspkg/package_dependencies.json
       - SpectaclesUIKit.lspkg/Audio
       - SpectaclesUIKit.lspkg/Audio/HoverAudioTrack.wav
       - SpectaclesUIKit.lspkg/Audio/SliderProgressionAudioTrack.wav
@@ -522,7 +783,6 @@ CollapsedEntities:
       - SpectaclesUIKit.lspkg/Prefabs/LabelledButton.prefab
       - SpectaclesUIKit.lspkg/Prefabs/LabelledToggle.prefab
       - SpectaclesUIKit.lspkg/README.md
-      - SpectaclesUIKit.lspkg/Scripts
       - SpectaclesUIKit.lspkg/Scripts/BackPlate.ts
       - SpectaclesUIKit.lspkg/Scripts/Components
       - SpectaclesUIKit.lspkg/Scripts/Components/Button
@@ -589,14 +849,12 @@ CollapsedEntities:
       - SpectaclesUIKit.lspkg/Scripts/Themes/Style.ts
       - SpectaclesUIKit.lspkg/Scripts/Themes/Theme.ts
       - SpectaclesUIKit.lspkg/Scripts/Tooltip.ts
-      - SpectaclesUIKit.lspkg/Scripts/Utility
       - SpectaclesUIKit.lspkg/Scripts/Utility/DebugCamera
       - SpectaclesUIKit.lspkg/Scripts/Utility/DebugCamera/DebugCamera.ts
       - SpectaclesUIKit.lspkg/Scripts/Utility/DebugCamera/Unit Plane.mesh
       - SpectaclesUIKit.lspkg/Scripts/Utility/DebugCamera/ViewingPlane.mat
       - SpectaclesUIKit.lspkg/Scripts/Utility/DebugCamera/ViewingPlane.ss_graph
       - SpectaclesUIKit.lspkg/Scripts/Utility/Frustum.ts
-      - SpectaclesUIKit.lspkg/Scripts/Utility/InteractableStateMachine.ts
       - SpectaclesUIKit.lspkg/Scripts/Utility/ScaleResetter.ts
       - SpectaclesUIKit.lspkg/Scripts/Utility/SceneUtilities.ts
       - SpectaclesUIKit.lspkg/Scripts/Utility/UIKitUtilities.ts
@@ -618,6 +876,15 @@ CollapsedEntities:
       - SpectaclesUIKit.lspkg/Textures/test-image.jpg
       - SpectaclesUIKit.lspkg/package.native
       - SpectaclesUIKit.lspkg/package_dependencies.json
+      - Tween Transform.lsc
       - UI Panel.lsc
+      - Uber Unlit.mat
+      - Untitled TypeScript.ts
+      - alpha_curly_big.png
+      - hair_curly_blue.ss_graph
+      - hair_curly_param.jpg
+      - hair_intensity_gradient.jpg
+      - lit_mild.jpg
       - pbr.ss_graph
+      - uber_unlit.ss_graph
   options: 4

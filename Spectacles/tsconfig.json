@@ -49,6 +49,22 @@
         "./Assets/Follow Curved Path 2.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/*",
         "./Cache/TypeScript/Src/Assets/Follow Curved Path 2.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/*"
       ],
+      "Follow Curved Path 3.lspkg/Follow Curved Path.lsc/*": [
+        "./Assets/Follow Curved Path 3.lspkg/Follow Curved Path.lsc/*",
+        "./Cache/TypeScript/Src/Assets/Follow Curved Path 3.lspkg/Follow Curved Path.lsc/*"
+      ],
+      "Follow Curved Path 3.lspkg/TweenManager/Tween/Tween.lsc/*": [
+        "./Assets/Follow Curved Path 3.lspkg/TweenManager/Tween/Tween.lsc/*",
+        "./Cache/TypeScript/Src/Assets/Follow Curved Path 3.lspkg/TweenManager/Tween/Tween.lsc/*"
+      ],
+      "Follow Curved Path 3.lspkg/TweenManager/Tween/TweenManager.lsc/*": [
+        "./Assets/Follow Curved Path 3.lspkg/TweenManager/Tween/TweenManager.lsc/*",
+        "./Cache/TypeScript/Src/Assets/Follow Curved Path 3.lspkg/TweenManager/Tween/TweenManager.lsc/*"
+      ],
+      "Follow Curved Path 3.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/*": [
+        "./Assets/Follow Curved Path 3.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/*",
+        "./Cache/TypeScript/Src/Assets/Follow Curved Path 3.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/*"
+      ],
       "Follow Curved Path.lspkg/Follow Curved Path.lsc/*": [
         "./Assets/Follow Curved Path.lspkg/Follow Curved Path.lsc/*",
         "./Cache/TypeScript/Src/Assets/Follow Curved Path.lspkg/Follow Curved Path.lsc/*"
@@ -64,6 +80,10 @@
       "Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/*": [
         "./Assets/Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/*",
         "./Cache/TypeScript/Src/Assets/Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/*"
+      ],
+      "Move Along Path 2.lspkg/*": [
+        "./Assets/Move Along Path 2.lspkg/*",
+        "./Cache/TypeScript/Src/Assets/Move Along Path 2.lspkg/*"
       ]
     },
     "skipDefaultLibCheck": true,
@@ -78,18 +98,23 @@
     "./Assets/**/*.ts",
     "./Packages/**/*.ts",
     "./Cache/TypeScript/Src/Packages/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Follow Curved Path 2.lspkg/TweenManager/Tween/TweenManager.lsc/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenAlpha.lsc/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Follow Curved Path.lspkg/TweenManager/Tween/Tween.lsc/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/Tween.lsc/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Follow Curved Path.lspkg/Follow Curved Path.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Move Along Path 2.lspkg/**/*.ts",
     "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.lsc/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Follow Curved Path 2.lspkg/TweenManager/Tween/Tween.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Follow Curved Path 2.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/**/*.ts",
     "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenManager.lsc/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenScreenTransform.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Follow Curved Path.lspkg/Follow Curved Path.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/Tween.lsc/**/*.ts",
     "./Cache/TypeScript/Src/Assets/Follow Curved Path.lspkg/TweenManager/Tween/TweenManager.lsc/**/*.ts",
     "./Cache/TypeScript/Src/Assets/Follow Curved Path.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Follow Curved Path 3.lspkg/Follow Curved Path.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Follow Curved Path 3.lspkg/TweenManager/Tween/Tween.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Follow Curved Path 3.lspkg/TweenManager/Tween/TweenManager.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Follow Curved Path 2.lspkg/TweenManager/Tween/Tween.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Follow Curved Path 2.lspkg/TweenManager/Tween/TweenManager.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Follow Curved Path.lspkg/TweenManager/Tween/Tween.lsc/**/*.ts",
     "./Cache/TypeScript/Src/Assets/Follow Curved Path 2.lspkg/Follow Curved Path.lsc/**/*.ts",
-    "./Cache/TypeScript/Src/Assets/Follow Curved Path 2.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/**/*.ts"
+    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenScreenTransform.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenAlpha.lsc/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Follow Curved Path 3.lspkg/TweenManager/Tween/TweenTypes/TweenValue.lsc/**/*.ts"
   ]
 }

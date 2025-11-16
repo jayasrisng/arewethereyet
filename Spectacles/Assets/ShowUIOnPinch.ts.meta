@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/fda06192-e95c-4d88-b023-0a5047d10d6e>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 367576f6-d6ca-4d09-9549-3ccb784be97b
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 367576f6-d6ca-4d09-9549-3ccb784be97b
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 4c404f44-fa81-47e9-962a-70c296fc15c3
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/4c404f44-fa81-47e9-962a-70c296fc15c3>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 71d86375-f445-494b-9e27-a5ca936828ae
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    uiPanel: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - uiPanel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject uiPanel

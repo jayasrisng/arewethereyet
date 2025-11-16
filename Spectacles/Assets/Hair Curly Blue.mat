@@ -1,0 +1,199 @@
+- !<Material/b85d0336-1dc8-42b7-943e-a572fcb06c1c>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> 73b802df-f635-4623-ad43-abee499ad5f6
+- !<PassInfo/73b802df-f635-4623-ad43-abee499ad5f6>
+  CachedProperties:
+    []
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    - ENABLE_ADVANCED
+  BlendMode: Disabled
+  Properties:
+    LitLookup:
+      typeIdx: 9
+      value:
+        id: 5466fb7d-d382-4cd9-abd4-d20711285f37
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          mipmaps: false
+        type: Texture2D
+    LitLookupTransform:
+      typeIdx: 7
+      value:
+        0: {x: 1.000000, y: 0.000000, z: 0.000000}
+        1: {x: 0.000000, y: 1.000000, z: 0.000000}
+        2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    Port_Input1_N030:
+      typeIdx: 1
+      value: 0.000000
+    Port_Input1_N046:
+      typeIdx: 1
+      value: 0.000000
+    Port_Input1_N057:
+      typeIdx: 1
+      value: 0.000000
+    Port_Input1_N134:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    Port_Input1_N135:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    Port_Input1_N181:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    Port_Input1_N184:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    Port_Input1_N207:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    Port_Scale_N028:
+      typeIdx: 1
+      value: 0.000000
+    Port_Value2_N120:
+      typeIdx: 1
+      value: 0.000000
+    Port_Value3_N132:
+      typeIdx: 1
+      value: 0.000000
+    Port_Value_N178:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    alphaTestThresh:
+      typeIdx: 1
+      value: 0.755000
+    blurMultiplier:
+      typeIdx: 1
+      value: 0.030000
+    clumpInstanceCount:
+      typeIdx: 1
+      value: 0.000000
+    clumpRadius:
+      typeIdx: 1
+      value: 0.000000
+    clumpTipScale:
+      typeIdx: 1
+      value: 0.000000
+    diffuseLightColor:
+      typeIdx: 5
+      value: {x: 0.890000, y: 0.710000, z: 0.670000, w: 1.000000}
+    directionMap:
+      typeIdx: 9
+      value:
+        id: 42fde08a-d2d6-4555-89ba-b5829d89cb99
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          mipmaps: false
+        type: Texture2D
+    directionMapTransform:
+      typeIdx: 7
+      value:
+        0: {x: 1.000000, y: 0.000000, z: 0.000000}
+        1: {x: 0.000000, y: 1.000000, z: 0.000000}
+        2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    hairGrowth:
+      typeIdx: 1
+      value: 1.000000
+    hairRootsColor:
+      typeIdx: 5
+      value: {x: 0.190000, y: 0.210000, z: 0.330000, w: 1.000000}
+    hairTex:
+      typeIdx: 9
+      value:
+        id: f0abd3e2-b093-4a95-8bda-0ef28bf416da
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          mipmaps: false
+        type: Texture2D
+    hairTexTransform:
+      typeIdx: 7
+      value:
+        0: {x: 1.000000, y: 0.000000, z: 0.000000}
+        1: {x: 0.000000, y: 1.000000, z: 0.000000}
+        2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    hairTipsColor:
+      typeIdx: 5
+      value: {x: 0.320000, y: 0.770000, z: 1.000000, w: 1.000000}
+    hairstyleInstanceCount:
+      typeIdx: 1
+      value: 0.000000
+    hairstyleNoise:
+      typeIdx: 1
+      value: 0.000000
+    intensityMap:
+      typeIdx: 9
+      value:
+        id: 6aeaacb8-3076-4e9d-8e52-ea6343303c87
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          mipmaps: false
+        type: Texture2D
+    intensityMapTransform:
+      typeIdx: 7
+      value:
+        0: {x: 1.000000, y: 0.000000, z: 0.000000}
+        1: {x: 0.000000, y: 1.000000, z: 0.000000}
+        2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    litOffset:
+      typeIdx: 1
+      value: -0.864000
+    litRotation:
+      typeIdx: 1
+      value: 3.140000
+    mixEdge:
+      typeIdx: 1
+      value: 0.655000
+    mixSize:
+      typeIdx: 1
+      value: 1.000000
+    offset:
+      typeIdx: 1
+      value: 1.000000
+    primaryDiffuseIntensity:
+      typeIdx: 1
+      value: 0.200000
+    primarypecularIntensity:
+      typeIdx: 1
+      value: 1.000000
+    specularLightColor:
+      typeIdx: 5
+      value: {x: 0.990000, y: 1.000000, z: 0.990000, w: 1.000000}
+    strandTaper:
+      typeIdx: 1
+      value: 0.000000
+    strandWidth:
+      typeIdx: 1
+      value: 0.000000
+    textureScale:
+      typeIdx: 1
+      value: 1.400000
+  Pass: !<reference> 504bf796-e948-484f-a7a4-6cc2a620b863

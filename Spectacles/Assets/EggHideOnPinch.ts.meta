@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/bb19d777-09cf-4173-aa1c-7c18ed623997>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> a5c439bf-9809-4fd8-a0f3-86d102152ab5
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> a5c439bf-9809-4fd8-a0f3-86d102152ab5
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 7d83e04e-4140-4bbc-b3fa-aa40b9673e00
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/7d83e04e-4140-4bbc-b3fa-aa40b9673e00>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 71d86375-f445-494b-9e27-a5ca936828ae
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    UIPanel: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - UIPanel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input SceneObject UIPanel {"hint":"Get UI that will be turned on when click on egg"}'

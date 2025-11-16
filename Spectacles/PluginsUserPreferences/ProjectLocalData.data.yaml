@@ -1,4 +1,23 @@
 data:
   externalSources:
-    - 7d8d8255-b200-465f-9b97-9bfdfd4991aa: "C:/Users/lliul/AppData/Local/Snap/Lens Studio/LibraryComponents/UI Panel@3.0.0/UI Panel.lsc"
-    - a067cacc-2805-4d78-be3f-d861452ebf6b: "C:/Users/lliul/AppData/Local/Snap/Lens Studio/LibraryComponents/SpectaclesUIKit@0.0.8/SpectaclesUIKit.lspkg"
+    - 3c27cd64-8ccc-41d3-a5de-809c447f5a4b: /Users/jayasrisainikithaguthula/Downloads/Bunny_v002.fbx
+    - 3d01ca14-46a4-42a1-834f-c20a84b7f821: /Users/jayasrisainikithaguthula/Downloads/Egg_v001_Egg_BaseColor.png
+    - 61900030-3cc0-44cb-90bc-278e4534caec: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/HairCurlyBlueMaterial/Resources/lit_mild.jpg
+    - 85c07d55-a018-4302-b0ae-3cfd54561887: "/Users/jayasrisainikithaguthula/Desktop/Essentials/Assets/[HookUpButtonsEvents].prefab"
+    - 86ab6520-2368-4834-9973-07327e583f1a: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/UberUnlitMaterial/Resources/uber_unlit.ss_graph
+    - 8f6c8216-2f0c-4441-b30c-a690b58c7131: /Users/jayasrisainikithaguthula/Library/Preferences/Snap/Lens Studio/LibraryComponents/Tween Transform@1.0.0/Tween Transform.lsc
+    - 8ffb5c8b-06ed-4e33-955c-4b9a81a074a8: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/HairCurlyBlueMaterial/Resources/hair_curly_param.jpg
+    - 932d23a9-93cd-4868-bf27-aaadcf6040e1: /Users/jayasrisainikithaguthula/Downloads/Bunny_v001.fbx
+    - 9603a29e-7674-4f16-a140-4b3ee8a8081a: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/Resources/MaterialParams.png
+    - 9bdd11e3-011c-450d-b83a-f60ea57258de: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/TypeScript/Resources/Untitled TypeScript.ts
+    - a580f0b4-449f-4e81-b4a1-a7c0f78c9ff5: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/PBRMaterial/Resources/pbr.ss_graph
+    - af0d0b16-c876-49d8-989c-29c4de57b113: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/HairCurlyBlueMaterial/Resources/hair_curly_blue.ss_graph
+    - b98c1b78-0a87-4144-8ea7-a47ab1ddc9a3: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/HairCurlyBlueMaterial/Resources/alpha_curly_big.png
+    - bb19d777-09cf-4173-aa1c-7c18ed623997: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/TypeScript/Resources/Untitled TypeScript.ts
+    - bc9dd465-b346-4200-9195-9b3e27c331a3: /Users/jayasrisainikithaguthula/Downloads/Egg_v001_Egg_Normal.png
+    - cd7997f4-4375-491d-aab1-9499bba3d62a: /Users/jayasrisainikithaguthula/Downloads/Egg_v001.fbx
+    - da0367c8-f98b-40bd-929d-997284218e28: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/Resources/Base.png
+    - e011141e-7e8e-45d0-b9df-cb4ef09ae47c: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/HairCurlyBlueMaterial/Resources/hair_intensity_gradient.jpg
+    - e2e67734-fd1e-45fe-aae4-1a69ac2c207a: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/Resources/Normal.png
+    - f4007d38-3927-456b-924e-1679b652bfa9: /Users/jayasrisainikithaguthula/Downloads/Egg_v001_Egg_Roughness.png
+    - fda06192-e95c-4d88-b023-0a5047d10d6e: /Users/jayasrisainikithaguthula/Documents/GitHub/arewethereyet/Spectacles/Assets/EggHideOnPinch.ts
