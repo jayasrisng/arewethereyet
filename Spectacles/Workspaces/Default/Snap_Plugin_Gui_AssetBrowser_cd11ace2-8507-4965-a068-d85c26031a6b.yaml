@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 884
+    size: 890
     values:
       - Base.png
       - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
@@ -16,6 +16,7 @@ CollapsedEntities:
       - Custom Location AR.lspkg/Materials/PBR.mat
       - Custom Location AR.lspkg/Materials/Segmentation.mat
       - Custom Location AR.lspkg/Materials/Snapcode.mat
+      - Custom Location AR.lspkg/Meshes
       - Custom Location AR.lspkg/Meshes/Box.mesh
       - Custom Location AR.lspkg/Meshes/Bunny_v001.fbx
       - Custom Location AR.lspkg/Meshes/Bunny_v001.fbx/Animations
@@ -65,8 +66,12 @@ CollapsedEntities:
       - Custom Location AR.lspkg/Shaders/UI.ss_graph
       - Custom Location AR.lspkg/Shaders/flat.ss_graph
       - Custom Location AR.lspkg/Shaders/pbr.ss_graph
-      - Custom Location AR.lspkg/Textures
       - Custom Location AR.lspkg/Textures/Base.png
+      - Custom Location AR.lspkg/Textures/Bunny_v001
+      - Custom Location AR.lspkg/Textures/Bunny_v001/lambert2_BaseColor.png
+      - Custom Location AR.lspkg/Textures/Bunny_v001/lambert2_Metallic.png
+      - Custom Location AR.lspkg/Textures/Bunny_v001/lambert2_Normal.png
+      - Custom Location AR.lspkg/Textures/Bunny_v001/lambert2_Roughness.png
       - Custom Location AR.lspkg/Textures/Device Camera Texture.deviceCameraTexture
       - Custom Location AR.lspkg/Textures/Egg_v001
       - Custom Location AR.lspkg/Textures/Egg_v001/Egg_v001_Egg_BaseColor.png
@@ -175,6 +180,7 @@ CollapsedEntities:
       - Normal.png
       - PBR 2.mat
       - PBR 3.mat
+      - PBR 4.mat
       - PBR.mat
       - Render Target.renderTarget
       - Scene.scene
