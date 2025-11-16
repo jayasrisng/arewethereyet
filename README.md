@@ -112,3 +112,5 @@ coming soon when the repo is public ready
 
 our team "we will take you there" enjoyed building this navigation that feels human  
 follow the rabbit hole with us
+
+https://github.com/user-attachments/assets/84191fcf-230a-498f-85e9-31ddd176855d
