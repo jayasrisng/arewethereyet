@@ -12,6 +12,8 @@ AreWeThereYet explores a warmer version of navigation: part route recorder, part
 
 https://github.com/user-attachments/assets/84191fcf-230a-498f-85e9-31ddd176855d
 
+![AreWeThereYet demo](media/arewethereyet-demo.gif)
+
 ## Problem
 
 GPS and maps are optimized for streets, not human arrival. The stressful part of navigation is often the final indoor or semi-private segment: finding the correct door, hallway, pickup point, exhibit, classroom, terminal exit, or parked car.

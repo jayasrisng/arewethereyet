@@ -1,6 +1,6 @@
 # AreWeThereYet Media
 
-This folder is reserved for GitHub and portfolio media.
+This folder contains GitHub project media.
 
 ## Existing demo
 
@@ -8,12 +8,15 @@ The README currently links to a GitHub-hosted prototype video:
 
 https://github.com/user-attachments/assets/84191fcf-230a-498f-85e9-31ddd176855d
 
-## Needed assets
+Additional local media:
 
-1. `arewethereyet-demo.gif` — short loop showing route recording and playback.
-2. `route-recording.png` — still frame of waypoint capture.
-3. `route-playback.png` — still frame of hologram guide / dotted path playback.
-4. `interaction-model.png` — simple diagram of record → save → replay.
+- `media/arewethereyet-demo.gif` — compact README-friendly loop generated from `WeWillTakeYouThere.mp4`.
+
+## Useful next assets
+
+1. `route-recording.png` — still frame of waypoint capture.
+2. `route-playback.png` — still frame of hologram guide / dotted path playback.
+3. `interaction-model.png` — simple diagram of record → save → replay.
 
 ## Capture guidance
 
