@@ -75,7 +75,7 @@ flowchart LR
 - Instructions need to be clear without cluttering the user’s field of view.
 - Storytelling and utility must be balanced; too much content makes navigation harder.
 
-## Portfolio case study
+## Case study
 
 Read the full case study: [docs/case-study.md](docs/case-study.md)
 
