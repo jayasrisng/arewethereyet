@@ -91,7 +91,3 @@ The strongest version of the product needs easy sharing and reuse, but it also n
 - Explore voice notes and text-to-speech route narration.
 - Prototype phone-based playback for non-glasses users.
 - Add accessibility route metadata such as stairs, elevators, lighting, and noise.
-
-## Hiring relevance
-
-AreWeThereYet is strongest for creative technologist, XR prototyper, spatial computing, and human-centered product roles. It shows an ability to combine technical prototyping with a sharp user insight: people need reassurance, not just directions.
